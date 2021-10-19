@@ -1,0 +1,3 @@
+F:/NewUser/Desktop/StockMarKitAnalySys/cmake-build-debug/CMakeFiles/StockMarKitAnalySys.dir
+F:/NewUser/Desktop/StockMarKitAnalySys/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/NewUser/Desktop/StockMarKitAnalySys/cmake-build-debug/CMakeFiles/rebuild_cache.dir

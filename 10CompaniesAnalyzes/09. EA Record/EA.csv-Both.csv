@@ -1,0 +1,1652 @@
+Company:,EA,	,	,	,	,	,	,
+Case:,Bullish,	,	,	,	,	,	,
+Activity:,Buy,	,	,	,	,	,	,
+======================================================================================
+Number: ,1,,,,,,,
+Found Date: ,2009-02-03,	,	,	,	,	,	,
+Enter Date1:,2009-02-04,Enter price:,16.299999,Exit price:,17.27,Profit rate:,5.950926745455628 %,
+Enter Date2:,2009-02-05,Enter price:,17.1,Exit price:,18.700001,Profit rate:,9.35673099415204 %,
+Enter Date3:,2009-02-06,Enter price:,18.93,Exit price:,19.34,Profit rate:,2.165874273639726 %,
+Enter Date4:,2009-02-09,Enter price:,19.1,Exit price:,18.58,Profit rate:,-2.722513089005252 %,
+Enter Date5:,2009-02-10,Enter price:,18.450001,Exit price:,16.84,Profit rate:,-8.726292209957064 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,6.024726714285077 %,
+	,	,	,	,Total cumulative:,,Profit rate:,6.024726714285077 %,
+Exit 5th day:,2009-02-04
+		    to
+		2009-02-10,Enter price:,16.299999,Exit price:,16.84,Profit rate:,3.3128897737969196 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,2,,,,,,,
+Found Date: ,2009-03-17,	,	,	,	,	,	,
+Enter Date1:,2009-03-18,Enter price:,18.389999,Exit price:,18.790001,Profit rate:,2.1751061541656456 %,
+Enter Date2:,2009-03-19,Enter price:,18.99,Exit price:,18.940001,Profit rate:,-0.26329120589783933 %,
+Enter Date3:,2009-03-20,Enter price:,18.450001,Exit price:,18.219999,Profit rate:,-1.2466232386654013 %,
+Enter Date4:,2009-03-23,Enter price:,18.299999,Exit price:,19.65,Profit rate:,7.3770550479265 %,
+Enter Date5:,2009-03-24,Enter price:,19.440001,Exit price:,19.15,Profit rate:,-1.4917746146206483 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,6.550472142908256 %,
+	,	,	,	,Total cumulative:,,Profit rate:,12.575198857193332 %,
+Exit 5th day:,2009-03-18
+		    to
+		2009-03-24,Enter price:,18.389999,Exit price:,19.15,Profit rate:,4.132686467247764 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,3,,,,,,,
+Found Date: ,2009-04-01,	,	,	,	,	,	,
+Enter Date1:,2009-04-02,Enter price:,18.469999,Exit price:,19.450001,Profit rate:,5.30591257747225 %,
+Enter Date2:,2009-04-03,Enter price:,19.26,Exit price:,20.700001,Profit rate:,7.47664070612668 %,
+Enter Date3:,2009-04-06,Enter price:,20.49,Exit price:,19.690001,Profit rate:,-3.9043387018057576 %,
+Enter Date4:,2009-04-07,Enter price:,19.459999,Exit price:,19.17,Profit rate:,-1.4902313201557622 %,
+Enter Date5:,2009-04-08,Enter price:,19.35,Exit price:,19.620001,Profit rate:,1.3953540051679434 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,8.783337266805352 %,
+	,	,	,	,Total cumulative:,,Profit rate:,21.358536123998682 %,
+Exit 5th day:,2009-04-02
+		    to
+		2009-04-08,Enter price:,18.469999,Exit price:,19.620001,Profit rate:,6.226324105377574 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,4,,,,,,,
+Found Date: ,2009-05-26,	,	,	,	,	,	,
+Enter Date1:,2009-05-27,Enter price:,22.33,Exit price:,22.139999,Profit rate:,-0.850877742946703 %,
+Enter Date2:,2009-05-28,Enter price:,21.809999,Exit price:,22.32,Profit rate:,2.3383815836030024 %,
+Enter Date3:,2009-05-29,Enter price:,21.91,Exit price:,22.99,Profit rate:,4.929256047466903 %,
+Enter Date4:,2009-06-01,Enter price:,23.68,Exit price:,23.459999,Profit rate:,-0.9290582770270266 %,
+Enter Date5:,2009-06-02,Enter price:,23.25,Exit price:,23.1,Profit rate:,-0.6451612903225745 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,4.842540320773601 %,
+	,	,	,	,Total cumulative:,,Profit rate:,26.201076444772283 %,
+Exit 5th day:,2009-05-27
+		    to
+		2009-06-02,Enter price:,22.33,Exit price:,23.1,Profit rate:,3.44827586206898 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,5,,,,,,,
+Found Date: ,2009-07-10,	,	,	,	,	,	,
+Enter Date1:,2009-07-13,Enter price:,20.969999,Exit price:,21.48,Profit rate:,2.432050664380094 %,
+Enter Date2:,2009-07-14,Enter price:,21.190001,Exit price:,21.17,Profit rate:,-0.09438885821665156 %,
+Enter Date3:,2009-07-15,Enter price:,21.309999,Exit price:,21.4,Profit rate:,0.4223416434697971 %,
+Enter Date4:,2009-07-16,Enter price:,21.27,Exit price:,21.450001,Profit rate:,0.8462670427832664 %,
+Enter Date5:,2009-07-17,Enter price:,21.549999,Exit price:,20.93,Profit rate:,-2.8770256555464337 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.7292448368700719 %,
+	,	,	,	,Total cumulative:,,Profit rate:,26.930321281642357 %,
+Exit 5th day:,2009-07-13
+		    to
+		2009-07-17,Enter price:,20.969999,Exit price:,20.93,Profit rate:,-0.1907439289815973 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,6,,,,,,,
+Found Date: ,2010-01-27,	,	,	,	,	,	,
+Enter Date1:,2010-01-28,Enter price:,17.110001,Exit price:,16.77,Profit rate:,-1.9871477506050461 %,
+Enter Date2:,2010-01-29,Enter price:,16.91,Exit price:,16.280001,Profit rate:,-3.7256002365464314 %,
+Enter Date3:,2010-02-01,Enter price:,16.52,Exit price:,16.74,Profit rate:,1.3317191283292908 %,
+Enter Date4:,2010-02-02,Enter price:,16.73,Exit price:,17.07,Profit rate:,2.0322773460848764 %,
+Enter Date5:,2010-02-03,Enter price:,16.92,Exit price:,17.27,Profit rate:,2.0685579196217363 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.2801935931155737 %,
+	,	,	,	,Total cumulative:,,Profit rate:,26.650127688526783 %,
+Exit 5th day:,2010-01-28
+		    to
+		2010-02-03,Enter price:,17.110001,Exit price:,17.27,Profit rate:,0.9351197583214583 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,7,,,,,,,
+Found Date: ,2010-02-25,	,	,	,	,	,	,
+Enter Date1:,2010-02-26,Enter price:,16.41,Exit price:,16.58,Profit rate:,1.0359536867763448 %,
+Enter Date2:,2010-03-01,Enter price:,16.73,Exit price:,16.870001,Profit rate:,0.8368260609683086 %,
+Enter Date3:,2010-03-02,Enter price:,16.93,Exit price:,16.74,Profit rate:,-1.1222681630242248 %,
+Enter Date4:,2010-03-03,Enter price:,16.82,Exit price:,16.809999,Profit rate:,-0.05945897740784208 %,
+Enter Date5:,2010-03-04,Enter price:,16.790001,Exit price:,16.82,Profit rate:,0.17867181782776612 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.8697244251403524 %,
+	,	,	,	,Total cumulative:,,Profit rate:,27.519852113667135 %,
+Exit 5th day:,2010-02-26
+		    to
+		2010-03-04,Enter price:,16.41,Exit price:,16.82,Profit rate:,2.498476538695918 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,8,,,,,,,
+Found Date: ,2010-08-18,	,	,	,	,	,	,
+Enter Date1:,2010-08-19,Enter price:,16.25,Exit price:,16.07,Profit rate:,-1.107692307692306 %,
+Enter Date2:,2010-08-20,Enter price:,15.97,Exit price:,15.79,Profit rate:,-1.1271133375078366 %,
+Enter Date3:,2010-08-23,Enter price:,15.83,Exit price:,15.46,Profit rate:,-2.337334175615914 %,
+Enter Date4:,2010-08-24,Enter price:,15.32,Exit price:,15.03,Profit rate:,-1.8929503916449146 %,
+Enter Date5:,2010-08-25,Enter price:,14.92,Exit price:,15.3,Profit rate:,2.546916890080434 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.9181733223805373 %,
+	,	,	,	,Total cumulative:,,Profit rate:,23.6016787912866 %,
+Exit 5th day:,2010-08-19
+		    to
+		2010-08-25,Enter price:,16.25,Exit price:,15.3,Profit rate:,-5.846153846153842 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,9,,,,,,,
+Found Date: ,2010-10-04,	,	,	,	,	,	,
+Enter Date1:,2010-10-05,Enter price:,17.110001,Exit price:,17.82,Profit rate:,4.149614018140618 %,
+Enter Date2:,2010-10-06,Enter price:,17.77,Exit price:,17.41,Profit rate:,-2.0258863252673014 %,
+Enter Date3:,2010-10-07,Enter price:,17.549999,Exit price:,17.58,Profit rate:,0.17094587868636696 %,
+Enter Date4:,2010-10-08,Enter price:,17.58,Exit price:,17.65,Profit rate:,0.3981797497155875 %,
+Enter Date5:,2010-10-11,Enter price:,17.65,Exit price:,17.66,Profit rate:,0.056657223796042856 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.7495105450713138 %,
+	,	,	,	,Total cumulative:,,Profit rate:,26.351189336357912 %,
+Exit 5th day:,2010-10-05
+		    to
+		2010-10-11,Enter price:,17.110001,Exit price:,17.66,Profit rate:,3.214488415284135 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,10,,,,,,,
+Found Date: ,2010-10-26,	,	,	,	,	,	,
+Enter Date1:,2010-10-27,Enter price:,15.76,Exit price:,15.79,Profit rate:,0.19035532994923454 %,
+Enter Date2:,2010-10-28,Enter price:,15.85,Exit price:,15.63,Profit rate:,-1.3880126182965227 %,
+Enter Date3:,2010-10-29,Enter price:,15.6,Exit price:,15.83,Profit rate:,1.4743589743589771 %,
+Enter Date4:,2010-11-01,Enter price:,15.82,Exit price:,15.8,Profit rate:,-0.12642225031605292 %,
+Enter Date5:,2010-11-02,Enter price:,15.92,Exit price:,16.200001,Profit rate:,1.7588002512562837 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.9090796869519195 %,
+	,	,	,	,Total cumulative:,,Profit rate:,28.26026902330983 %,
+Exit 5th day:,2010-10-27
+		    to
+		2010-11-02,Enter price:,15.76,Exit price:,16.200001,Profit rate:,2.791884517766501 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,11,,,,,,,
+Found Date: ,2010-11-29,	,	,	,	,	,	,
+Enter Date1:,2010-11-30,Enter price:,14.85,Exit price:,14.91,Profit rate:,0.4040404040404074 %,
+Enter Date2:,2010-12-01,Enter price:,15.06,Exit price:,15.05,Profit rate:,-0.06640106241699725 %,
+Enter Date3:,2010-12-02,Enter price:,15.02,Exit price:,15.08,Profit rate:,0.39946737683089545 %,
+Enter Date4:,2010-12-03,Enter price:,15.06,Exit price:,15.18,Profit rate:,0.7968127490039788 %,
+Enter Date5:,2010-12-06,Enter price:,15.16,Exit price:,15.43,Profit rate:,1.7810026385224245 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.314922105980709 %,
+	,	,	,	,Total cumulative:,,Profit rate:,31.57519112929054 %,
+Exit 5th day:,2010-11-30
+		    to
+		2010-12-06,Enter price:,14.85,Exit price:,15.43,Profit rate:,3.905723905723906 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,12,,,,,,,
+Found Date: ,2010-12-16,	,	,	,	,	,	,
+Enter Date1:,2010-12-17,Enter price:,15.89,Exit price:,15.91,Profit rate:,0.1258653241032069 %,
+Enter Date2:,2010-12-20,Enter price:,15.91,Exit price:,15.85,Profit rate:,-0.3771213073538686 %,
+Enter Date3:,2010-12-21,Enter price:,15.89,Exit price:,15.93,Profit rate:,0.2517306482064138 %,
+Enter Date4:,2010-12-22,Enter price:,15.93,Exit price:,15.98,Profit rate:,0.3138731952291319 %,
+Enter Date5:,2010-12-23,Enter price:,15.99,Exit price:,15.94,Profit rate:,-0.3126954346466586 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.0016524255382253106 %,
+	,	,	,	,Total cumulative:,,Profit rate:,31.576843554828766 %,
+Exit 5th day:,2010-12-17
+		    to
+		2010-12-23,Enter price:,15.89,Exit price:,15.94,Profit rate:,0.3146633102580172 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,13,,,,,,,
+Found Date: ,2010-12-27,	,	,	,	,	,	,
+Enter Date1:,2010-12-28,Enter price:,16.120001,Exit price:,16.15,Profit rate:,0.18609800334379703 %,
+Enter Date2:,2010-12-29,Enter price:,16.200001,Exit price:,16.549999,Profit rate:,2.1604813481184317 %,
+Enter Date3:,2010-12-30,Enter price:,16.549999,Exit price:,16.620001,Profit rate:,0.4229728352249374 %,
+Enter Date4:,2010-12-31,Enter price:,16.59,Exit price:,16.379999,Profit rate:,-1.2658288125376633 %,
+Enter Date5:,2011-01-03,Enter price:,16.5,Exit price:,16.379999,Profit rate:,-0.7272787878787785 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.7764445862707243 %,
+	,	,	,	,Total cumulative:,,Profit rate:,32.35328814109949 %,
+Exit 5th day:,2010-12-28
+		    to
+		2011-01-03,Enter price:,16.120001,Exit price:,16.379999,Profit rate:,1.6128907188033244 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,14,,,,,,,
+Found Date: ,2011-03-14,	,	,	,	,	,	,
+Enter Date1:,2011-03-15,Enter price:,18.09,Exit price:,18.370001,Profit rate:,1.5478220011055757 %,
+Enter Date2:,2011-03-16,Enter price:,18.27,Exit price:,18.209999,Profit rate:,-0.32841269841269705 %,
+Enter Date3:,2011-03-17,Enter price:,18.43,Exit price:,18.67,Profit rate:,1.3022246337493326 %,
+Enter Date4:,2011-03-18,Enter price:,18.84,Exit price:,18.59,Profit rate:,-1.3269639065817411 %,
+Enter Date5:,2011-03-21,Enter price:,18.799999,Exit price:,18.940001,Profit rate:,0.7446915289729487 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.939361558833419 %,
+	,	,	,	,Total cumulative:,,Profit rate:,34.29264969993291 %,
+Exit 5th day:,2011-03-15
+		    to
+		2011-03-21,Enter price:,18.09,Exit price:,18.940001,Profit rate:,4.698734107241564 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,15,,,,,,,
+Found Date: ,2011-03-23,	,	,	,	,	,	,
+Enter Date1:,2011-03-24,Enter price:,19.139999,Exit price:,19.84,Profit rate:,3.657267693692149 %,
+Enter Date2:,2011-03-25,Enter price:,19.83,Exit price:,19.700001,Profit rate:,-0.6555673222390216 %,
+Enter Date3:,2011-03-28,Enter price:,19.709999,Exit price:,19.709999,Profit rate:,0.0 %,
+Enter Date4:,2011-03-29,Enter price:,19.700001,Exit price:,19.66,Profit rate:,-0.20305075111417595 %,
+Enter Date5:,2011-03-30,Enter price:,19.75,Exit price:,19.68,Profit rate:,-0.3544303797468369 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.4442192405921146 %,
+	,	,	,	,Total cumulative:,,Profit rate:,36.73686894052502 %,
+Exit 5th day:,2011-03-24
+		    to
+		2011-03-30,Enter price:,19.139999,Exit price:,19.68,Profit rate:,2.8213219864849535 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,16,,,,,,,
+Found Date: ,2011-07-25,	,	,	,	,	,	,
+Enter Date1:,2011-07-26,Enter price:,24.190001,Exit price:,23.809999,Profit rate:,-1.5709052678418556 %,
+Enter Date2:,2011-07-27,Enter price:,24.370001,Exit price:,22.969999,Profit rate:,-5.7447761286509476 %,
+Enter Date3:,2011-07-28,Enter price:,22.91,Exit price:,22.559999,Profit rate:,-1.527721518987337 %,
+Enter Date4:,2011-07-29,Enter price:,22.379999,Exit price:,22.25,Profit rate:,-0.5808713396278593 %,
+Enter Date5:,2011-08-01,Enter price:,22.4,Exit price:,21.950001,Profit rate:,-2.0089241071428496 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-11.433198362250849 %,
+	,	,	,	,Total cumulative:,,Profit rate:,25.303670578274172 %,
+Exit 5th day:,2011-07-26
+		    to
+		2011-08-01,Enter price:,24.190001,Exit price:,21.950001,Profit rate:,-9.26002442083404 %,
+,,Win:,0,Lose:,5,,,
+======================================================================================
+Number: ,17,,,,,,,
+Found Date: ,2012-04-02,	,	,	,	,	,	,
+Enter Date1:,2012-04-03,Enter price:,16.629999,Exit price:,16.65,Profit rate:,0.12027060254181042 %,
+Enter Date2:,2012-04-04,Enter price:,16.51,Exit price:,16.26,Profit rate:,-1.5142337976983646 %,
+Enter Date3:,2012-04-05,Enter price:,16.209999,Exit price:,16.27,Profit rate:,0.3701480795896394 %,
+Enter Date4:,2012-04-09,Enter price:,16.08,Exit price:,15.9,Profit rate:,-1.119402985074614 %,
+Enter Date5:,2012-04-10,Enter price:,15.81,Exit price:,15.55,Profit rate:,-1.6445287792536356 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.7877468798951646 %,
+	,	,	,	,Total cumulative:,,Profit rate:,21.51592369837901 %,
+Exit 5th day:,2012-04-03
+		    to
+		2012-04-10,Enter price:,16.629999,Exit price:,15.55,Profit rate:,-6.4942818096381165 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,18,,,,,,,
+Found Date: ,2012-05-21,	,	,	,	,	,	,
+Enter Date1:,2012-05-22,Enter price:,14.36,Exit price:,14.26,Profit rate:,-0.696378830083563 %,
+Enter Date2:,2012-05-23,Enter price:,14.11,Exit price:,14.69,Profit rate:,4.1105598866052455 %,
+Enter Date3:,2012-05-24,Enter price:,14.65,Exit price:,14.22,Profit rate:,-2.9351535836177454 %,
+Enter Date4:,2012-05-25,Enter price:,14.2,Exit price:,14.22,Profit rate:,0.1408450704225447 %,
+Enter Date5:,2012-05-29,Enter price:,14.32,Exit price:,14.38,Profit rate:,0.4189944134078247 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.0388669567343065 %,
+	,	,	,	,Total cumulative:,,Profit rate:,22.554790655113315 %,
+Exit 5th day:,2012-05-22
+		    to
+		2012-05-29,Enter price:,14.36,Exit price:,14.38,Profit rate:,0.1392757660167225 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,19,,,,,,,
+Found Date: ,2012-05-23,	,	,	,	,	,	,
+Enter Date1:,2012-05-24,Enter price:,14.65,Exit price:,14.22,Profit rate:,-2.9351535836177454 %,
+Enter Date2:,2012-05-25,Enter price:,14.2,Exit price:,14.22,Profit rate:,0.1408450704225447 %,
+Enter Date3:,2012-05-29,Enter price:,14.32,Exit price:,14.38,Profit rate:,0.4189944134078247 %,
+Enter Date4:,2012-05-30,Enter price:,14.22,Exit price:,14.15,Profit rate:,-0.4922644163150512 %,
+Enter Date5:,2012-05-31,Enter price:,14.14,Exit price:,13.62,Profit rate:,-3.6775106082036872 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-6.545089124306115 %,
+	,	,	,	,Total cumulative:,,Profit rate:,16.0097015308072 %,
+Exit 5th day:,2012-05-24
+		    to
+		2012-05-31,Enter price:,14.65,Exit price:,13.62,Profit rate:,-7.030716723549496 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,20,,,,,,,
+Found Date: ,2012-06-15,	,	,	,	,	,	,
+Enter Date1:,2012-06-18,Enter price:,12.27,Exit price:,12.43,Profit rate:,1.303993480032601 %,
+Enter Date2:,2012-06-19,Enter price:,12.49,Exit price:,12.67,Profit rate:,1.4411529223378678 %,
+Enter Date3:,2012-06-20,Enter price:,12.64,Exit price:,12.66,Profit rate:,0.15822784810126245 %,
+Enter Date4:,2012-06-21,Enter price:,12.66,Exit price:,12.0,Profit rate:,-5.213270142180096 %,
+Enter Date5:,2012-06-22,Enter price:,11.67,Exit price:,12.26,Profit rate:,5.055698371893744 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.745802480185379 %,
+	,	,	,	,Total cumulative:,,Profit rate:,18.755504010992578 %,
+Exit 5th day:,2012-06-18
+		    to
+		2012-06-22,Enter price:,12.27,Exit price:,12.26,Profit rate:,-0.08149959250203576 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,21,,,,,,,
+Found Date: ,2012-08-15,	,	,	,	,	,	,
+Enter Date1:,2012-08-16,Enter price:,14.31,Exit price:,13.81,Profit rate:,-3.494060097833682 %,
+Enter Date2:,2012-08-17,Enter price:,13.95,Exit price:,13.77,Profit rate:,-1.2903225806451595 %,
+Enter Date3:,2012-08-20,Enter price:,13.69,Exit price:,13.56,Profit rate:,-0.949598246895537 %,
+Enter Date4:,2012-08-21,Enter price:,13.62,Exit price:,13.56,Profit rate:,-0.44052863436122414 %,
+Enter Date5:,2012-08-22,Enter price:,13.48,Exit price:,13.44,Profit rate:,-0.29673590504451725 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-6.471245464780121 %,
+	,	,	,	,Total cumulative:,,Profit rate:,12.284258546212456 %,
+Exit 5th day:,2012-08-16
+		    to
+		2012-08-22,Enter price:,14.31,Exit price:,13.44,Profit rate:,-6.079664570230615 %,
+,,Win:,0,Lose:,5,,,
+======================================================================================
+Number: ,22,,,,,,,
+Found Date: ,2012-08-31,	,	,	,	,	,	,
+Enter Date1:,2012-09-04,Enter price:,13.22,Exit price:,13.03,Profit rate:,-1.4372163388804937 %,
+Enter Date2:,2012-09-05,Enter price:,12.91,Exit price:,13.14,Profit rate:,1.7815646785437678 %,
+Enter Date3:,2012-09-06,Enter price:,13.33,Exit price:,13.63,Profit rate:,2.2505626406601706 %,
+Enter Date4:,2012-09-07,Enter price:,13.65,Exit price:,14.04,Profit rate:,2.8571428571428483 %,
+Enter Date5:,2012-09-10,Enter price:,13.96,Exit price:,13.84,Profit rate:,-0.859598853868202 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,4.592454983598091 %,
+	,	,	,	,Total cumulative:,,Profit rate:,16.876713529810548 %,
+Exit 5th day:,2012-09-04
+		    to
+		2012-09-10,Enter price:,13.22,Exit price:,13.84,Profit rate:,4.689863842662626 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,23,,,,,,,
+Found Date: ,2013-01-11,	,	,	,	,	,	,
+Enter Date1:,2013-01-14,Enter price:,14.23,Exit price:,14.43,Profit rate:,1.4054813773717447 %,
+Enter Date2:,2013-01-15,Enter price:,14.3,Exit price:,14.61,Profit rate:,2.1678321678321586 %,
+Enter Date3:,2013-01-16,Enter price:,14.59,Exit price:,14.6,Profit rate:,0.06854009595613288 %,
+Enter Date4:,2013-01-17,Enter price:,14.66,Exit price:,14.51,Profit rate:,-1.0231923601637132 %,
+Enter Date5:,2013-01-18,Enter price:,14.54,Exit price:,14.46,Profit rate:,-0.5502063273727531 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.0684549536235695 %,
+	,	,	,	,Total cumulative:,,Profit rate:,18.945168483434117 %,
+Exit 5th day:,2013-01-14
+		    to
+		2013-01-18,Enter price:,14.23,Exit price:,14.46,Profit rate:,1.616303583977515 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,24,,,,,,,
+Found Date: ,2013-01-31,	,	,	,	,	,	,
+Enter Date1:,2013-02-01,Enter price:,15.62,Exit price:,16.190001,Profit rate:,3.6491741357234284 %,
+Enter Date2:,2013-02-04,Enter price:,16.01,Exit price:,16.0,Profit rate:,-0.062460961898823 %,
+Enter Date3:,2013-02-05,Enter price:,16.25,Exit price:,16.889999,Profit rate:,3.9384553846153816 %,
+Enter Date4:,2013-02-06,Enter price:,17.18,Exit price:,16.879999,Profit rate:,-1.7462223515715845 %,
+Enter Date5:,2013-02-07,Enter price:,16.91,Exit price:,16.870001,Profit rate:,-0.23654050857481768 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,5.542405698293584 %,
+	,	,	,	,Total cumulative:,,Profit rate:,24.4875741817277 %,
+Exit 5th day:,2013-02-01
+		    to
+		2013-02-07,Enter price:,15.62,Exit price:,16.870001,Profit rate:,8.002567221510878 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,25,,,,,,,
+Found Date: ,2013-02-27,	,	,	,	,	,	,
+Enter Date1:,2013-02-28,Enter price:,17.59,Exit price:,17.530001,Profit rate:,-0.3410972143263289 %,
+Enter Date2:,2013-03-01,Enter price:,17.530001,Exit price:,18.040001,Profit rate:,2.9092981797320014 %,
+Enter Date3:,2013-03-04,Enter price:,17.969999,Exit price:,18.200001,Profit rate:,1.2799221636016724 %,
+Enter Date4:,2013-03-05,Enter price:,18.34,Exit price:,18.51,Profit rate:,0.9269356597600965 %,
+Enter Date5:,2013-03-06,Enter price:,18.629999,Exit price:,18.620001,Profit rate:,-0.053666132778660156 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,4.721392655988782 %,
+	,	,	,	,Total cumulative:,,Profit rate:,29.208966837716485 %,
+Exit 5th day:,2013-02-28
+		    to
+		2013-03-06,Enter price:,17.59,Exit price:,18.620001,Profit rate:,5.855605457646383 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,26,,,,,,,
+Found Date: ,2013-03-01,	,	,	,	,	,	,
+Enter Date1:,2013-03-04,Enter price:,17.969999,Exit price:,18.200001,Profit rate:,1.2799221636016724 %,
+Enter Date2:,2013-03-05,Enter price:,18.34,Exit price:,18.51,Profit rate:,0.9269356597600965 %,
+Enter Date3:,2013-03-06,Enter price:,18.629999,Exit price:,18.620001,Profit rate:,-0.053666132778660156 %,
+Enter Date4:,2013-03-07,Enter price:,18.559999,Exit price:,18.709999,Profit rate:,0.8081896987171097 %,
+Enter Date5:,2013-03-08,Enter price:,18.75,Exit price:,18.58,Profit rate:,-0.9066666666666757 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.0547147226335425 %,
+	,	,	,	,Total cumulative:,,Profit rate:,31.263681560350026 %,
+Exit 5th day:,2013-03-04
+		    to
+		2013-03-08,Enter price:,17.969999,Exit price:,18.58,Profit rate:,3.3945522200641016 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,27,,,,,,,
+Found Date: ,2013-03-07,	,	,	,	,	,	,
+Enter Date1:,2013-03-08,Enter price:,18.75,Exit price:,18.58,Profit rate:,-0.9066666666666757 %,
+Enter Date2:,2013-03-11,Enter price:,18.58,Exit price:,19.129999,Profit rate:,2.9601668460710617 %,
+Enter Date3:,2013-03-12,Enter price:,19.059999,Exit price:,19.25,Profit rate:,0.9968573450607146 %,
+Enter Date4:,2013-03-13,Enter price:,19.040001,Exit price:,18.940001,Profit rate:,-0.5252100564490592 %,
+Enter Date5:,2013-03-14,Enter price:,19.07,Exit price:,19.34,Profit rate:,1.4158363922391166 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.940983860255158 %,
+	,	,	,	,Total cumulative:,,Profit rate:,35.20466542060518 %,
+Exit 5th day:,2013-03-08
+		    to
+		2013-03-14,Enter price:,18.75,Exit price:,19.34,Profit rate:,3.1466666666666656 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,28,,,,,,,
+Found Date: ,2013-04-19,	,	,	,	,	,	,
+Enter Date1:,2013-04-22,Enter price:,17.1,Exit price:,17.280001,Profit rate:,1.0526374269005683 %,
+Enter Date2:,2013-04-23,Enter price:,17.290001,Exit price:,17.42,Profit rate:,0.751873872072081 %,
+Enter Date3:,2013-04-24,Enter price:,17.43,Exit price:,17.799999,Profit rate:,2.1227710843373493 %,
+Enter Date4:,2013-04-25,Enter price:,17.860001,Exit price:,17.940001,Profit rate:,0.44792830638698333 %,
+Enter Date5:,2013-04-26,Enter price:,17.959999,Exit price:,17.879999,Profit rate:,-0.44543432324243615 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.929776366454546 %,
+	,	,	,	,Total cumulative:,,Profit rate:,39.13444178705973 %,
+Exit 5th day:,2013-04-22
+		    to
+		2013-04-26,Enter price:,17.1,Exit price:,17.879999,Profit rate:,4.561397660818714 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,29,,,,,,,
+Found Date: ,2013-05-06,	,	,	,	,	,	,
+Enter Date1:,2013-05-07,Enter price:,18.85,Exit price:,18.41,Profit rate:,-2.3342175066313064 %,
+Enter Date2:,2013-05-08,Enter price:,19.799999,Exit price:,21.559999,Profit rate:,8.888889337822702 %,
+Enter Date3:,2013-05-09,Enter price:,21.040001,Exit price:,21.639999,Profit rate:,2.8517013853754065 %,
+Enter Date4:,2013-05-10,Enter price:,21.5,Exit price:,22.48,Profit rate:,4.558139534883723 %,
+Enter Date5:,2013-05-13,Enter price:,22.27,Exit price:,21.74,Profit rate:,-2.379883251010333 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,11.58462950044019 %,
+	,	,	,	,Total cumulative:,,Profit rate:,50.719071287499915 %,
+Exit 5th day:,2013-05-07
+		    to
+		2013-05-13,Enter price:,18.85,Exit price:,21.74,Profit rate:,15.331564986737384 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,30,,,,,,,
+Found Date: ,2013-06-28,	,	,	,	,	,	,
+Enter Date1:,2013-07-01,Enter price:,22.889999,Exit price:,23.18,Profit rate:,1.2669332139332998 %,
+Enter Date2:,2013-07-02,Enter price:,23.200001,Exit price:,23.52,Profit rate:,1.3793059750299117 %,
+Enter Date3:,2013-07-03,Enter price:,23.280001,Exit price:,23.309999,Profit rate:,0.12885738278105158 %,
+Enter Date4:,2013-07-05,Enter price:,23.5,Exit price:,23.83,Profit rate:,1.4042553191489289 %,
+Enter Date5:,2013-07-08,Enter price:,23.889999,Exit price:,23.540001,Profit rate:,-1.4650398269166915 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.714312063976501 %,
+	,	,	,	,Total cumulative:,,Profit rate:,53.433383351476415 %,
+Exit 5th day:,2013-07-01
+		    to
+		2013-07-08,Enter price:,22.889999,Exit price:,23.540001,Profit rate:,2.839676838780118 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,31,,,,,,,
+Found Date: ,2013-07-10,	,	,	,	,	,	,
+Enter Date1:,2013-07-11,Enter price:,24.1,Exit price:,24.27,Profit rate:,0.7053941908713616 %,
+Enter Date2:,2013-07-12,Enter price:,24.25,Exit price:,24.32,Profit rate:,0.2886597938144342 %,
+Enter Date3:,2013-07-15,Enter price:,24.25,Exit price:,24.190001,Profit rate:,-0.24741855670103607 %,
+Enter Date4:,2013-07-16,Enter price:,24.1,Exit price:,24.190001,Profit rate:,0.3734481327800719 %,
+Enter Date5:,2013-07-17,Enter price:,24.299999,Exit price:,23.809999,Profit rate:,-2.0164609883317213 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.8963774275668897 %,
+	,	,	,	,Total cumulative:,,Profit rate:,52.537005923909526 %,
+Exit 5th day:,2013-07-11
+		    to
+		2013-07-17,Enter price:,24.1,Exit price:,23.809999,Profit rate:,-1.2033236514522827 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,32,,,,,,,
+Found Date: ,2013-07-26,	,	,	,	,	,	,
+Enter Date1:,2013-07-29,Enter price:,25.41,Exit price:,25.48,Profit rate:,0.27548209366391296 %,
+Enter Date2:,2013-07-30,Enter price:,25.77,Exit price:,26.07,Profit rate:,1.1641443538998864 %,
+Enter Date3:,2013-07-31,Enter price:,26.0,Exit price:,26.120001,Profit rate:,0.4615423076923018 %,
+Enter Date4:,2013-08-01,Enter price:,26.33,Exit price:,26.530001,Profit rate:,0.7595936194455007 %,
+Enter Date5:,2013-08-02,Enter price:,26.65,Exit price:,26.57,Profit rate:,-0.30018761726078164 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.36057475744082 %,
+	,	,	,	,Total cumulative:,,Profit rate:,54.89758068135035 %,
+Exit 5th day:,2013-07-29
+		    to
+		2013-08-02,Enter price:,25.41,Exit price:,26.57,Profit rate:,4.565131837859111 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,33,,,,,,,
+Found Date: ,2013-08-12,	,	,	,	,	,	,
+Enter Date1:,2013-08-13,Enter price:,26.700001,Exit price:,26.549999,Profit rate:,-0.5618052224043012 %,
+Enter Date2:,2013-08-14,Enter price:,26.129999,Exit price:,26.66,Profit rate:,2.0283238434107806 %,
+Enter Date3:,2013-08-15,Enter price:,26.75,Exit price:,26.48,Profit rate:,-1.0093457943925217 %,
+Enter Date4:,2013-08-16,Enter price:,26.360001,Exit price:,26.889999,Profit rate:,2.0106144912513435 %,
+Enter Date5:,2013-08-19,Enter price:,26.74,Exit price:,26.57,Profit rate:,-0.6357516828720948 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.8320356349932063 %,
+	,	,	,	,Total cumulative:,,Profit rate:,56.72961631634355 %,
+Exit 5th day:,2013-08-13
+		    to
+		2013-08-19,Enter price:,26.700001,Exit price:,26.57,Profit rate:,-0.4868951128503704 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,34,,,,,,,
+Found Date: ,2013-08-16,	,	,	,	,	,	,
+Enter Date1:,2013-08-19,Enter price:,26.74,Exit price:,26.57,Profit rate:,-0.6357516828720948 %,
+Enter Date2:,2013-08-20,Enter price:,26.52,Exit price:,26.75,Profit rate:,0.8672699849170453 %,
+Enter Date3:,2013-08-21,Enter price:,26.58,Exit price:,26.66,Profit rate:,0.3009781790820235 %,
+Enter Date4:,2013-08-22,Enter price:,27.0,Exit price:,27.780001,Profit rate:,2.8888925925925872 %,
+Enter Date5:,2013-08-23,Enter price:,27.969999,Exit price:,27.969999,Profit rate:,0.0 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.421389073719561 %,
+	,	,	,	,Total cumulative:,,Profit rate:,60.15100539006311 %,
+Exit 5th day:,2013-08-19
+		    to
+		2013-08-23,Enter price:,26.74,Exit price:,27.969999,Profit rate:,4.599846671652966 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,35,,,,,,,
+Found Date: ,2013-08-20,	,	,	,	,	,	,
+Enter Date1:,2013-08-21,Enter price:,26.58,Exit price:,26.66,Profit rate:,0.3009781790820235 %,
+Enter Date2:,2013-08-22,Enter price:,27.0,Exit price:,27.780001,Profit rate:,2.8888925925925872 %,
+Enter Date3:,2013-08-23,Enter price:,27.969999,Exit price:,27.969999,Profit rate:,0.0 %,
+Enter Date4:,2013-08-26,Enter price:,28.07,Exit price:,27.860001,Profit rate:,-0.7481261132882074 %,
+Enter Date5:,2013-08-27,Enter price:,27.49,Exit price:,26.99,Profit rate:,-1.8188432157148056 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.622901442671598 %,
+	,	,	,	,Total cumulative:,,Profit rate:,60.77390683273471 %,
+Exit 5th day:,2013-08-21
+		    to
+		2013-08-27,Enter price:,26.58,Exit price:,26.99,Profit rate:,1.5425131677953354 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,36,,,,,,,
+Found Date: ,2013-09-17,	,	,	,	,	,	,
+Enter Date1:,2013-09-18,Enter price:,27.5,Exit price:,26.860001,Profit rate:,-2.327269090909089 %,
+Enter Date2:,2013-09-19,Enter price:,27.059999,Exit price:,26.98,Profit rate:,-0.2956356354632564 %,
+Enter Date3:,2013-09-20,Enter price:,27.02,Exit price:,26.540001,Profit rate:,-1.7764581791265708 %,
+Enter Date4:,2013-09-23,Enter price:,26.43,Exit price:,26.190001,Profit rate:,-0.908055240257287 %,
+Enter Date5:,2013-09-24,Enter price:,26.27,Exit price:,26.549999,Profit rate:,1.0658507803578232 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-4.241567365398381 %,
+	,	,	,	,Total cumulative:,,Profit rate:,56.53233946733633 %,
+Exit 5th day:,2013-09-18
+		    to
+		2013-09-24,Enter price:,27.5,Exit price:,26.549999,Profit rate:,-3.454549090909092 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,37,,,,,,,
+Found Date: ,2013-10-22,	,	,	,	,	,	,
+Enter Date1:,2013-10-23,Enter price:,25.219999,Exit price:,24.610001,Profit rate:,-2.4187074710034717 %,
+Enter Date2:,2013-10-24,Enter price:,24.700001,Exit price:,24.74,Profit rate:,0.1619392646988076 %,
+Enter Date3:,2013-10-25,Enter price:,24.870001,Exit price:,24.75,Profit rate:,-0.4825130485519421 %,
+Enter Date4:,2013-10-28,Enter price:,24.66,Exit price:,24.83,Profit rate:,0.6893755068937476 %,
+Enter Date5:,2013-10-29,Enter price:,24.969999,Exit price:,24.129999,Profit rate:,-3.3640369789362015 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.4139427268990605 %,
+	,	,	,	,Total cumulative:,,Profit rate:,51.11839674043727 %,
+Exit 5th day:,2013-10-23
+		    to
+		2013-10-29,Enter price:,25.219999,Exit price:,24.129999,Profit rate:,-4.321966864471325 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,38,,,,,,,
+Found Date: ,2014-02-06,	,	,	,	,	,	,
+Enter Date1:,2014-02-07,Enter price:,26.620001,Exit price:,27.200001,Profit rate:,2.1788128407658656 %,
+Enter Date2:,2014-02-10,Enter price:,26.76,Exit price:,26.879999,Profit rate:,0.4484267563527652 %,
+Enter Date3:,2014-02-11,Enter price:,26.93,Exit price:,27.41,Profit rate:,1.7823988117341272 %,
+Enter Date4:,2014-02-12,Enter price:,27.370001,Exit price:,27.860001,Profit rate:,1.7902812645129316 %,
+Enter Date5:,2014-02-13,Enter price:,27.52,Exit price:,27.559999,Profit rate:,0.14534520348837818 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,6.345264876854068 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.463661617291336 %,
+Exit 5th day:,2014-02-07
+		    to
+		2014-02-13,Enter price:,26.620001,Exit price:,27.559999,Profit rate:,3.5311719184383303 %,
+,,Win:,5,Lose:,0,,,
+======================================================================================
+Number: ,39,,,,,,,
+Found Date: ,2014-04-22,	,	,	,	,	,	,
+Enter Date1:,2014-04-23,Enter price:,28.139999,Exit price:,28.15,Profit rate:,0.03554015762402493 %,
+Enter Date2:,2014-04-24,Enter price:,28.32,Exit price:,28.1,Profit rate:,-0.7768361581920864 %,
+Enter Date3:,2014-04-25,Enter price:,28.049999,Exit price:,28.209999,Profit rate:,0.570410002510161 %,
+Enter Date4:,2014-04-28,Enter price:,28.34,Exit price:,28.18,Profit rate:,-0.5645730416372623 %,
+Enter Date5:,2014-04-29,Enter price:,28.219999,Exit price:,28.059999,Profit rate:,-0.5669737975539976 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.3024328372491603 %,
+	,	,	,	,Total cumulative:,,Profit rate:,56.16122878004218 %,
+Exit 5th day:,2014-04-23
+		    to
+		2014-04-29,Enter price:,28.139999,Exit price:,28.059999,Profit rate:,-0.28429283170904984 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,40,,,,,,,
+Found Date: ,2014-07-10,	,	,	,	,	,	,
+Enter Date1:,2014-07-11,Enter price:,35.84,Exit price:,35.970001,Profit rate:,0.36272600446428577 %,
+Enter Date2:,2014-07-14,Enter price:,36.349998,Exit price:,36.549999,Profit rate:,0.5502091086772558 %,
+Enter Date3:,2014-07-15,Enter price:,36.360001,Exit price:,36.18,Profit rate:,-0.4950522416102167 %,
+Enter Date4:,2014-07-16,Enter price:,36.450001,Exit price:,37.119999,Profit rate:,1.8381288933297961 %,
+Enter Date5:,2014-07-17,Enter price:,36.630001,Exit price:,37.060001,Profit rate:,1.1739011418536398 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.429912906714761 %,
+	,	,	,	,Total cumulative:,,Profit rate:,59.59114168675694 %,
+Exit 5th day:,2014-07-11
+		    to
+		2014-07-17,Enter price:,35.84,Exit price:,37.060001,Profit rate:,3.404020647321418 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,41,,,,,,,
+Found Date: ,2014-08-29,	,	,	,	,	,	,
+Enter Date1:,2014-09-02,Enter price:,37.82,Exit price:,38.009998,Profit rate:,0.5023744050766863 %,
+Enter Date2:,2014-09-03,Enter price:,38.189999,Exit price:,37.889999,Profit rate:,-0.7855459750077426 %,
+Enter Date3:,2014-09-04,Enter price:,38.060001,Exit price:,37.360001,Profit rate:,-1.8392012128428552 %,
+Enter Date4:,2014-09-05,Enter price:,37.299999,Exit price:,37.689999,Profit rate:,1.0455764355382438 %,
+Enter Date5:,2014-09-08,Enter price:,37.619999,Exit price:,38.0,Profit rate:,1.010103695111741 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.06669265212392661 %,
+	,	,	,	,Total cumulative:,,Profit rate:,59.524449034633015 %,
+Exit 5th day:,2014-09-02
+		    to
+		2014-09-08,Enter price:,37.82,Exit price:,38.0,Profit rate:,0.4759386567953456 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,42,,,,,,,
+Found Date: ,2014-10-02,	,	,	,	,	,	,
+Enter Date1:,2014-10-03,Enter price:,35.869999,Exit price:,35.950001,Profit rate:,0.22303318157327062 %,
+Enter Date2:,2014-10-06,Enter price:,36.099998,Exit price:,36.0,Profit rate:,-0.27700278542951545 %,
+Enter Date3:,2014-10-07,Enter price:,35.68,Exit price:,34.919998,Profit rate:,-2.1300504484304934 %,
+Enter Date4:,2014-10-08,Enter price:,34.93,Exit price:,35.279999,Profit rate:,1.0020011451474287 %,
+Enter Date5:,2014-10-09,Enter price:,35.400002,Exit price:,35.009998,Profit rate:,-1.1017061524459733 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-2.283725059585283 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.24072397504773 %,
+Exit 5th day:,2014-10-03
+		    to
+		2014-10-09,Enter price:,35.869999,Exit price:,35.009998,Profit rate:,-2.397549551088632 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,43,,,,,,,
+Found Date: ,2015-02-20,	,	,	,	,	,	,
+Enter Date1:,2015-02-23,Enter price:,57.830002,Exit price:,57.549999,Profit rate:,-0.48418293328089573 %,
+Enter Date2:,2015-02-24,Enter price:,57.400002,Exit price:,57.630001,Profit rate:,0.4006951079897164 %,
+Enter Date3:,2015-02-25,Enter price:,57.650002,Exit price:,57.389999,Profit rate:,-0.45100258626183143 %,
+Enter Date4:,2015-02-26,Enter price:,57.490002,Exit price:,57.73,Profit rate:,0.4174604133776164 %,
+Enter Date5:,2015-02-27,Enter price:,56.810001,Exit price:,57.18,Profit rate:,0.6512920145873611 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.5342620164119668 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.774985991459694 %,
+Exit 5th day:,2015-02-23
+		    to
+		2015-02-27,Enter price:,57.830002,Exit price:,57.18,Profit rate:,-1.1239875108425565 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,44,,,,,,,
+Found Date: ,2015-04-07,	,	,	,	,	,	,
+Enter Date1:,2015-04-08,Enter price:,57.810001,Exit price:,58.150002,Profit rate:,0.5881352605408204 %,
+Enter Date2:,2015-04-09,Enter price:,57.98,Exit price:,57.5,Profit rate:,-0.8278716798896117 %,
+Enter Date3:,2015-04-10,Enter price:,57.740002,Exit price:,58.360001,Profit rate:,1.0737772402571097 %,
+Enter Date4:,2015-04-13,Enter price:,58.290001,Exit price:,57.330002,Profit rate:,-1.6469359813529534 %,
+Enter Date5:,2015-04-14,Enter price:,57.290001,Exit price:,57.07,Profit rate:,-0.3840129100364239 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.1969080704810589 %,
+	,	,	,	,Total cumulative:,,Profit rate:,56.578077920978636 %,
+Exit 5th day:,2015-04-08
+		    to
+		2015-04-14,Enter price:,57.810001,Exit price:,57.07,Profit rate:,-1.280057061407073 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,45,,,,,,,
+Found Date: ,2015-09-04,	,	,	,	,	,	,
+Enter Date1:,2015-09-08,Enter price:,67.550003,Exit price:,68.5,Profit rate:,1.406361151456938 %,
+Enter Date2:,2015-09-09,Enter price:,69.540001,Exit price:,67.779999,Profit rate:,-2.530920297225765 %,
+Enter Date3:,2015-09-10,Enter price:,67.540001,Exit price:,68.739998,Profit rate:,1.776720435642274 %,
+Enter Date4:,2015-09-11,Enter price:,68.230003,Exit price:,68.910004,Profit rate:,0.9966304706156972 %,
+Enter Date5:,2015-09-14,Enter price:,68.860001,Exit price:,68.349998,Profit rate:,-0.7406375146581795 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.9081542458309649 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.4862321668096 %,
+Exit 5th day:,2015-09-08
+		    to
+		2015-09-14,Enter price:,67.550003,Exit price:,68.349998,Profit rate:,1.1843004655380927 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,46,,,,,,,
+Found Date: ,2015-10-27,	,	,	,	,	,	,
+Enter Date1:,2015-10-28,Enter price:,76.0,Exit price:,76.769997,Profit rate:,1.013153947368426 %,
+Enter Date2:,2015-10-29,Enter price:,76.5,Exit price:,76.059998,Profit rate:,-0.5751660130719044 %,
+Enter Date3:,2015-10-30,Enter price:,75.0,Exit price:,72.07,Profit rate:,-3.9066666666666756 %,
+Enter Date4:,2015-11-02,Enter price:,72.599998,Exit price:,72.0,Profit rate:,-0.8264435489378379 %,
+Enter Date5:,2015-11-03,Enter price:,71.82,Exit price:,71.900002,Profit rate:,0.11139236981343283 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-4.183729911494559 %,
+	,	,	,	,Total cumulative:,,Profit rate:,53.30250225531504 %,
+Exit 5th day:,2015-10-28
+		    to
+		2015-11-03,Enter price:,76.0,Exit price:,71.900002,Profit rate:,-5.394734210526315 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,47,,,,,,,
+Found Date: ,2016-02-24,	,	,	,	,	,	,
+Enter Date1:,2016-02-25,Enter price:,63.549999,Exit price:,64.68,Profit rate:,1.7781290602380768 %,
+Enter Date2:,2016-02-26,Enter price:,64.809998,Exit price:,64.449997,Profit rate:,-0.5554713950153137 %,
+Enter Date3:,2016-02-29,Enter price:,63.970001,Exit price:,64.239998,Profit rate:,0.4220681503506565 %,
+Enter Date4:,2016-03-01,Enter price:,64.449997,Exit price:,65.480003,Profit rate:,1.598147475476221 %,
+Enter Date5:,2016-03-02,Enter price:,65.18,Exit price:,66.089996,Profit rate:,1.396127646517325 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,4.639000937566966 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.94150319288201 %,
+Exit 5th day:,2016-02-25
+		    to
+		2016-03-02,Enter price:,63.549999,Exit price:,66.089996,Profit rate:,3.9968482139551247 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,48,,,,,,,
+Found Date: ,2016-07-06,	,	,	,	,	,	,
+Enter Date1:,2016-07-07,Enter price:,76.559998,Exit price:,76.620003,Profit rate:,0.07837643882906563 %,
+Enter Date2:,2016-07-08,Enter price:,77.32,Exit price:,78.260002,Profit rate:,1.215729436109683 %,
+Enter Date3:,2016-07-11,Enter price:,78.279999,Exit price:,79.169998,Profit rate:,1.136943039562383 %,
+Enter Date4:,2016-07-12,Enter price:,79.279999,Exit price:,79.510002,Profit rate:,0.29011478670679147 %,
+Enter Date5:,2016-07-13,Enter price:,79.93,Exit price:,77.620003,Profit rate:,-2.890025021894169 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.1688613206862466 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.77264187219576 %,
+Exit 5th day:,2016-07-07
+		    to
+		2016-07-13,Enter price:,76.559998,Exit price:,77.620003,Profit rate:,1.3845415722189593 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,49,,,,,,,
+Found Date: ,2016-08-17,	,	,	,	,	,	,
+Enter Date1:,2016-08-18,Enter price:,79.800003,Exit price:,80.980003,Profit rate:,1.4786966862645263 %,
+Enter Date2:,2016-08-19,Enter price:,80.949997,Exit price:,81.760002,Profit rate:,1.0006238789607416 %,
+Enter Date3:,2016-08-22,Enter price:,81.07,Exit price:,81.489998,Profit rate:,0.5180683360059292 %,
+Enter Date4:,2016-08-23,Enter price:,81.980003,Exit price:,82.309998,Profit rate:,0.402531090417253 %,
+Enter Date5:,2016-08-24,Enter price:,82.309998,Exit price:,82.419998,Profit rate:,0.13364111611327417 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.533561107761724 %,
+	,	,	,	,Total cumulative:,,Profit rate:,61.30620297995749 %,
+Exit 5th day:,2016-08-18
+		    to
+		2016-08-24,Enter price:,79.800003,Exit price:,82.419998,Profit rate:,3.2832016309573357 %,
+,,Win:,5,Lose:,0,,,
+======================================================================================
+Number: ,50,,,,,,,
+Found Date: ,2016-09-27,	,	,	,	,	,	,
+Enter Date1:,2016-09-28,Enter price:,85.349998,Exit price:,85.0,Profit rate:,-0.4100738233174878 %,
+Enter Date2:,2016-09-29,Enter price:,84.93,Exit price:,84.260002,Profit rate:,-0.7888826092075906 %,
+Enter Date3:,2016-09-30,Enter price:,84.349998,Exit price:,85.400002,Profit rate:,1.2448180496696648 %,
+Enter Date4:,2016-10-03,Enter price:,85.220001,Exit price:,85.410004,Profit rate:,0.22295587628543254 %,
+Enter Date5:,2016-10-04,Enter price:,85.93,Exit price:,85.559998,Profit rate:,-0.4305853601769041 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.16176786674688504 %,
+	,	,	,	,Total cumulative:,,Profit rate:,61.144435113210605 %,
+Exit 5th day:,2016-09-28
+		    to
+		2016-10-04,Enter price:,85.349998,Exit price:,85.559998,Profit rate:,0.24604569996591416 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,51,,,,,,,
+Found Date: ,2016-10-24,	,	,	,	,	,	,
+Enter Date1:,2016-10-25,Enter price:,84.190002,Exit price:,82.940002,Profit rate:,-1.4847368693494032 %,
+Enter Date2:,2016-10-26,Enter price:,82.949997,Exit price:,82.580002,Profit rate:,-0.44604582686121497 %,
+Enter Date3:,2016-10-27,Enter price:,83.279999,Exit price:,82.720001,Profit rate:,-0.6724279619648017 %,
+Enter Date4:,2016-10-28,Enter price:,80.779999,Exit price:,79.449997,Profit rate:,-1.6464496366235502 %,
+Enter Date5:,2016-10-31,Enter price:,79.639999,Exit price:,78.519997,Profit rate:,-1.406331007111137 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.655991301910107 %,
+	,	,	,	,Total cumulative:,,Profit rate:,55.4884438113005 %,
+Exit 5th day:,2016-10-25
+		    to
+		2016-10-31,Enter price:,84.190002,Exit price:,78.519997,Profit rate:,-6.734772378316374 %,
+,,Win:,0,Lose:,5,,,
+======================================================================================
+Number: ,52,,,,,,,
+Found Date: ,2016-12-07,	,	,	,	,	,	,
+Enter Date1:,2016-12-08,Enter price:,78.029999,Exit price:,77.779999,Profit rate:,-0.32038959785197485 %,
+Enter Date2:,2016-12-09,Enter price:,77.809998,Exit price:,78.75,Profit rate:,1.2080735434538978 %,
+Enter Date3:,2016-12-12,Enter price:,78.879997,Exit price:,80.620003,Profit rate:,2.2058900433274533 %,
+Enter Date4:,2016-12-13,Enter price:,80.459999,Exit price:,80.760002,Profit rate:,0.372859810748946 %,
+Enter Date5:,2016-12-14,Enter price:,80.610001,Exit price:,80.699997,Profit rate:,0.11164371527547717 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.578077514953799 %,
+	,	,	,	,Total cumulative:,,Profit rate:,59.066521326254296 %,
+Exit 5th day:,2016-12-08
+		    to
+		2016-12-14,Enter price:,78.029999,Exit price:,80.699997,Profit rate:,3.421758341942299 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,53,,,,,,,
+Found Date: ,2017-08-11,	,	,	,	,	,	,
+Enter Date1:,2017-08-14,Enter price:,116.709999,Exit price:,117.110001,Profit rate:,0.34273155978692166 %,
+Enter Date2:,2017-08-15,Enter price:,117.230003,Exit price:,117.43,Profit rate:,0.17060223055697646 %,
+Enter Date3:,2017-08-16,Enter price:,117.489998,Exit price:,119.25,Profit rate:,1.4980015575453496 %,
+Enter Date4:,2017-08-17,Enter price:,119.190002,Exit price:,116.470001,Profit rate:,-2.2820714442139285 %,
+Enter Date5:,2017-08-18,Enter price:,116.0,Exit price:,116.879997,Profit rate:,0.7586181034482785 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.48788200712359797 %,
+	,	,	,	,Total cumulative:,,Profit rate:,59.55440333337789 %,
+Exit 5th day:,2017-08-14
+		    to
+		2017-08-18,Enter price:,116.709999,Exit price:,116.879997,Profit rate:,0.14565847095929355 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,54,,,,,,,
+Found Date: ,2017-10-04,	,	,	,	,	,	,
+Enter Date1:,2017-10-05,Enter price:,118.629997,Exit price:,119.519997,Profit rate:,0.7502318321731059 %,
+Enter Date2:,2017-10-06,Enter price:,119.029999,Exit price:,120.089996,Profit rate:,0.8905292858147429 %,
+Enter Date3:,2017-10-09,Enter price:,119.239998,Exit price:,118.620003,Profit rate:,-0.5199555605494081 %,
+Enter Date4:,2017-10-10,Enter price:,119.029999,Exit price:,117.82,Profit rate:,-1.0165496178824722 %,
+Enter Date5:,2017-10-11,Enter price:,117.330002,Exit price:,116.050003,Profit rate:,-1.0909392126320678 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.9866832730760995 %,
+	,	,	,	,Total cumulative:,,Profit rate:,58.567720060301795 %,
+Exit 5th day:,2017-10-05
+		    to
+		2017-10-11,Enter price:,118.629997,Exit price:,116.050003,Profit rate:,-2.174824298444515 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,55,,,,,,,
+Found Date: ,2017-10-25,	,	,	,	,	,	,
+Enter Date1:,2017-10-26,Enter price:,115.07,Exit price:,115.830002,Profit rate:,0.6604692795689582 %,
+Enter Date2:,2017-10-27,Enter price:,116.830002,Exit price:,116.889999,Profit rate:,0.05135410337492749 %,
+Enter Date3:,2017-10-30,Enter price:,117.129997,Exit price:,117.580002,Profit rate:,0.38419278709619553 %,
+Enter Date4:,2017-10-31,Enter price:,118.129997,Exit price:,119.599998,Profit rate:,1.2443926499041529 %,
+Enter Date5:,2017-11-01,Enter price:,116.0,Exit price:,114.470001,Profit rate:,-1.318964655172417 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.0214441647718173 %,
+	,	,	,	,Total cumulative:,,Profit rate:,59.58916422507361 %,
+Exit 5th day:,2017-10-26
+		    to
+		2017-11-01,Enter price:,115.07,Exit price:,114.470001,Profit rate:,-0.5214208742504535 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,56,,,,,,,
+Found Date: ,2017-11-14,	,	,	,	,	,	,
+Enter Date1:,2017-11-15,Enter price:,112.720001,Exit price:,111.480003,Profit rate:,-1.100069188253467 %,
+Enter Date2:,2017-11-16,Enter price:,111.849998,Exit price:,111.599998,Profit rate:,-0.22351363832836188 %,
+Enter Date3:,2017-11-17,Enter price:,108.989998,Exit price:,108.82,Profit rate:,-0.15597578045648441 %,
+Enter Date4:,2017-11-20,Enter price:,108.279999,Exit price:,107.639999,Profit rate:,-0.591060219717956 %,
+Enter Date5:,2017-11-21,Enter price:,107.779999,Exit price:,107.709999,Profit rate:,-0.06494711509508122 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-2.1355659418513504 %,
+	,	,	,	,Total cumulative:,,Profit rate:,57.45359828322226 %,
+Exit 5th day:,2017-11-15
+		    to
+		2017-11-21,Enter price:,112.720001,Exit price:,107.709999,Profit rate:,-4.444643324657174 %,
+,,Win:,0,Lose:,5,,,
+======================================================================================
+Number: ,57,,,,,,,
+Found Date: ,2017-11-28,	,	,	,	,	,	,
+Enter Date1:,2017-11-29,Enter price:,109.209999,Exit price:,105.489998,Profit rate:,-3.406282422912573 %,
+Enter Date2:,2017-11-30,Enter price:,106.110001,Exit price:,106.349998,Profit rate:,0.22617754946586277 %,
+Enter Date3:,2017-12-01,Enter price:,105.860001,Exit price:,106.019997,Profit rate:,0.15113923907860788 %,
+Enter Date4:,2017-12-04,Enter price:,105.529999,Exit price:,100.830002,Profit rate:,-4.453707044951275 %,
+Enter Date5:,2017-12-05,Enter price:,100.550003,Exit price:,103.379997,Profit rate:,2.8145140880801356 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-4.6681585912392425 %,
+	,	,	,	,Total cumulative:,,Profit rate:,52.78543969198302 %,
+Exit 5th day:,2017-11-29
+		    to
+		2017-12-05,Enter price:,109.209999,Exit price:,103.379997,Profit rate:,-5.338340860162441 %,
+,,Win:,3,Lose:,2,,,
+Total Win:,158,Total Lose:,127,,,,,
+Total Profit:,Found:,57 Patterns.,	,	,	,Total ProfitRate:,47.12748849437425 %,
+Average Profit:,Days:,57 Patterns.,	,	,	,Total Ave. ProfitRate:,0.8267980437609517 %,
+=======================================End Bullish=======================================
+======================================Start Bearish======================================
+Company:,EA,	,	,	,	,	,	,
+Case:,Bearish,	,	,	,	,	,	,
+Activity:,Sell,	,	,	,	,	,	,
+======================================================================================
+Number: ,1,,,,,,,
+Found Date: ,2009-03-16,	,	,	,	,	,	,
+Enter Date1:,2009-03-17,Enter price:,17.309999,Exit price:,18.379999,Profit rate:,-6.181398392917297 %,
+Enter Date2:,2009-03-18,Enter price:,18.389999,Exit price:,18.790001,Profit rate:,-2.1751061541656456 %,
+Enter Date3:,2009-03-19,Enter price:,18.99,Exit price:,18.940001,Profit rate:,0.26329120589783933 %,
+Enter Date4:,2009-03-20,Enter price:,18.450001,Exit price:,18.219999,Profit rate:,1.2466232386654013 %,
+Enter Date5:,2009-03-23,Enter price:,18.299999,Exit price:,19.65,Profit rate:,-7.3770550479265 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-14.223645150446199 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-14.223645150446199 %,
+Exit 5th day:,2009-03-17
+		    to
+		2009-03-23,Enter price:,17.309999,Exit price:,19.65,Profit rate:,-13.518204131612007 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,2,,,,,,,
+Found Date: ,2009-03-25,	,	,	,	,	,	,
+Enter Date1:,2009-03-26,Enter price:,19.209999,Exit price:,19.5,Profit rate:,-1.5096356850409007 %,
+Enter Date2:,2009-03-27,Enter price:,19.629999,Exit price:,18.690001,Profit rate:,4.788578950004036 %,
+Enter Date3:,2009-03-30,Enter price:,18.33,Exit price:,18.18,Profit rate:,0.8183306055646403 %,
+Enter Date4:,2009-03-31,Enter price:,18.15,Exit price:,18.190001,Profit rate:,-0.22039118457300375 %,
+Enter Date5:,2009-04-01,Enter price:,17.65,Exit price:,18.389999,Profit rate:,-4.192628895184142 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.31574620922937013 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-14.53939135967557 %,
+Exit 5th day:,2009-03-26
+		    to
+		2009-04-01,Enter price:,19.209999,Exit price:,18.389999,Profit rate:,4.268610321114542 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,3,,,,,,,
+Found Date: ,2009-05-06,	,	,	,	,	,	,
+Enter Date1:,2009-05-07,Enter price:,20.209999,Exit price:,19.459999,Profit rate:,3.71103432513777 %,
+Enter Date2:,2009-05-08,Enter price:,19.549999,Exit price:,20.18,Profit rate:,-3.2225116737857635 %,
+Enter Date3:,2009-05-11,Enter price:,19.73,Exit price:,20.17,Profit rate:,-2.230106436898131 %,
+Enter Date4:,2009-05-12,Enter price:,20.25,Exit price:,20.110001,Profit rate:,0.6913530864197508 %,
+Enter Date5:,2009-05-13,Enter price:,19.77,Exit price:,19.48,Profit rate:,1.4668689934243762 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.4166382942980025 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-14.122753065377568 %,
+Exit 5th day:,2009-05-07
+		    to
+		2009-05-13,Enter price:,20.209999,Exit price:,19.48,Profit rate:,3.6120684617549927 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,4,,,,,,,
+Found Date: ,2009-06-05,	,	,	,	,	,	,
+Enter Date1:,2009-06-08,Enter price:,22.99,Exit price:,22.17,Profit rate:,3.5667681600695813 %,
+Enter Date2:,2009-06-09,Enter price:,22.51,Exit price:,22.0,Profit rate:,2.265659706796986 %,
+Enter Date3:,2009-06-10,Enter price:,22.040001,Exit price:,21.959999,Profit rate:,0.3629854644743453 %,
+Enter Date4:,2009-06-11,Enter price:,21.940001,Exit price:,21.870001,Profit rate:,0.3190519453485909 %,
+Enter Date5:,2009-06-12,Enter price:,21.799999,Exit price:,21.93,Profit rate:,-0.5963348897401327 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,5.91813038694937 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-8.204622678428198 %,
+Exit 5th day:,2009-06-08
+		    to
+		2009-06-12,Enter price:,22.99,Exit price:,21.93,Profit rate:,4.610700304480204 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,5,,,,,,,
+Found Date: ,2009-07-17,	,	,	,	,	,	,
+Enter Date1:,2009-07-20,Enter price:,20.83,Exit price:,21.42,Profit rate:,-2.8324531925108185 %,
+Enter Date2:,2009-07-21,Enter price:,21.559999,Exit price:,21.98,Profit rate:,-1.9480566766260015 %,
+Enter Date3:,2009-07-22,Enter price:,21.76,Exit price:,21.82,Profit rate:,-0.2757352941176412 %,
+Enter Date4:,2009-07-23,Enter price:,21.59,Exit price:,21.67,Profit rate:,-0.3705419175544319 %,
+Enter Date5:,2009-07-24,Enter price:,21.59,Exit price:,21.16,Profit rate:,1.991662806855024 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.435124273953869 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-11.639746952382067 %,
+Exit 5th day:,2009-07-20
+		    to
+		2009-07-24,Enter price:,20.83,Exit price:,21.16,Profit rate:,-1.5842534805568982 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,6,,,,,,,
+Found Date: ,2009-11-12,	,	,	,	,	,	,
+Enter Date1:,2009-11-13,Enter price:,18.219999,Exit price:,18.16,Profit rate:,0.32930298184978624 %,
+Enter Date2:,2009-11-16,Enter price:,18.059999,Exit price:,18.049999,Profit rate:,0.05537098866949861 %,
+Enter Date3:,2009-11-17,Enter price:,18.1,Exit price:,17.85,Profit rate:,1.3812154696132597 %,
+Enter Date4:,2009-11-18,Enter price:,17.860001,Exit price:,17.67,Profit rate:,1.063835326772931 %,
+Enter Date5:,2009-11-19,Enter price:,17.65,Exit price:,17.43,Profit rate:,1.2464589235127415 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,4.076183690418217 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-7.56356326196385 %,
+Exit 5th day:,2009-11-13
+		    to
+		2009-11-19,Enter price:,18.219999,Exit price:,17.43,Profit rate:,4.335889370795254 %,
+,,Win:,5,Lose:,0,,,
+======================================================================================
+Number: ,7,,,,,,,
+Found Date: ,2009-12-02,	,	,	,	,	,	,
+Enter Date1:,2009-12-03,Enter price:,16.870001,Exit price:,16.549999,Profit rate:,1.8968700713177127 %,
+Enter Date2:,2009-12-04,Enter price:,16.66,Exit price:,16.200001,Profit rate:,2.761098439375749 %,
+Enter Date3:,2009-12-07,Enter price:,16.200001,Exit price:,16.200001,Profit rate:,0.0 %,
+Enter Date4:,2009-12-08,Enter price:,16.040001,Exit price:,16.360001,Profit rate:,-1.9950123444506036 %,
+Enter Date5:,2009-12-09,Enter price:,16.379999,Exit price:,16.360001,Profit rate:,0.12208791954139354 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.785044085784252 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-4.778519176179598 %,
+Exit 5th day:,2009-12-03
+		    to
+		2009-12-09,Enter price:,16.870001,Exit price:,16.360001,Profit rate:,3.0231177816764685 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,8,,,,,,,
+Found Date: ,2010-06-09,	,	,	,	,	,	,
+Enter Date1:,2010-06-10,Enter price:,15.5,Exit price:,15.92,Profit rate:,-2.709677419354838 %,
+Enter Date2:,2010-06-11,Enter price:,15.71,Exit price:,16.32,Profit rate:,-3.8828771483131725 %,
+Enter Date3:,2010-06-14,Enter price:,16.469999,Exit price:,16.360001,Profit rate:,0.667868893009653 %,
+Enter Date4:,2010-06-15,Enter price:,16.540001,Exit price:,16.309999,Profit rate:,1.3905803270507597 %,
+Enter Date5:,2010-06-16,Enter price:,16.25,Exit price:,16.01,Profit rate:,1.4769230769230672 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.05718227068453 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-7.835701446864128 %,
+Exit 5th day:,2010-06-10
+		    to
+		2010-06-16,Enter price:,15.5,Exit price:,16.01,Profit rate:,-3.2903225806451712 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,9,,,,,,,
+Found Date: ,2010-06-15,	,	,	,	,	,	,
+Enter Date1:,2010-06-16,Enter price:,16.25,Exit price:,16.01,Profit rate:,1.4769230769230672 %,
+Enter Date2:,2010-06-17,Enter price:,16.059999,Exit price:,16.17,Profit rate:,-0.6849377761480586 %,
+Enter Date3:,2010-06-18,Enter price:,16.16,Exit price:,16.030001,Profit rate:,0.804449257425752 %,
+Enter Date4:,2010-06-21,Enter price:,16.120001,Exit price:,15.78,Profit rate:,2.1091872140702668 %,
+Enter Date5:,2010-06-22,Enter price:,15.75,Exit price:,15.32,Profit rate:,2.7301587301587285 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,6.435780502429756 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-1.3999209444343723 %,
+Exit 5th day:,2010-06-16
+		    to
+		2010-06-22,Enter price:,16.25,Exit price:,15.32,Profit rate:,5.723076923076921 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,10,,,,,,,
+Found Date: ,2010-09-16,	,	,	,	,	,	,
+Enter Date1:,2010-09-17,Enter price:,16.5,Exit price:,16.26,Profit rate:,1.454545454545445 %,
+Enter Date2:,2010-09-20,Enter price:,16.299999,Exit price:,16.35,Profit rate:,-0.3067546200463064 %,
+Enter Date3:,2010-09-21,Enter price:,16.309999,Exit price:,16.290001,Profit rate:,0.12261190206082215 %,
+Enter Date4:,2010-09-22,Enter price:,16.280001,Exit price:,16.15,Profit rate:,0.7985318919820708 %,
+Enter Date5:,2010-09-23,Enter price:,15.95,Exit price:,16.16,Profit rate:,-1.3166144200627012 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.7523202084793301 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-0.6476007359550422 %,
+Exit 5th day:,2010-09-17
+		    to
+		2010-09-23,Enter price:,16.5,Exit price:,16.16,Profit rate:,2.0606060606060597 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,11,,,,,,,
+Found Date: ,2010-10-28,	,	,	,	,	,	,
+Enter Date1:,2010-10-29,Enter price:,15.6,Exit price:,15.83,Profit rate:,-1.4743589743589771 %,
+Enter Date2:,2010-11-01,Enter price:,15.82,Exit price:,15.8,Profit rate:,0.12642225031605292 %,
+Enter Date3:,2010-11-02,Enter price:,15.92,Exit price:,16.200001,Profit rate:,-1.7588002512562837 %,
+Enter Date4:,2010-11-03,Enter price:,16.0,Exit price:,15.5,Profit rate:,3.125 %,
+Enter Date5:,2010-11-04,Enter price:,15.71,Exit price:,15.85,Profit rate:,-0.8911521323997376 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.8728891076989453 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-1.5204898436539875 %,
+Exit 5th day:,2010-10-29
+		    to
+		2010-11-04,Enter price:,15.6,Exit price:,15.85,Profit rate:,-1.6025641025641029 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,12,,,,,,,
+Found Date: ,2011-01-11,	,	,	,	,	,	,
+Enter Date1:,2011-01-12,Enter price:,16.07,Exit price:,16.030001,Profit rate:,0.24890479153703593 %,
+Enter Date2:,2011-01-13,Enter price:,16.02,Exit price:,16.040001,Profit rate:,-0.12485018726592137 %,
+Enter Date3:,2011-01-14,Enter price:,15.94,Exit price:,15.95,Profit rate:,-0.06273525721455324 %,
+Enter Date4:,2011-01-18,Enter price:,15.9,Exit price:,16.0,Profit rate:,-0.6289308176100606 %,
+Enter Date5:,2011-01-19,Enter price:,15.92,Exit price:,15.84,Profit rate:,0.5025125628140708 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.06509890773942861 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-1.5855887513934162 %,
+Exit 5th day:,2011-01-12
+		    to
+		2011-01-19,Enter price:,16.07,Exit price:,15.84,Profit rate:,1.4312383322962066 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,13,,,,,,,
+Found Date: ,2011-04-08,	,	,	,	,	,	,
+Enter Date1:,2011-04-11,Enter price:,19.92,Exit price:,19.85,Profit rate:,0.3514056224899612 %,
+Enter Date2:,2011-04-12,Enter price:,19.709999,Exit price:,19.74,Profit rate:,-0.15221208281136195 %,
+Enter Date3:,2011-04-13,Enter price:,19.799999,Exit price:,19.889999,Profit rate:,-0.4545454775022962 %,
+Enter Date4:,2011-04-14,Enter price:,19.77,Exit price:,19.950001,Profit rate:,-0.9104754678806309 %,
+Enter Date5:,2011-04-15,Enter price:,19.99,Exit price:,20.129999,Profit rate:,-0.7003451725863087 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.8661725782906364 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-3.451761329684053 %,
+Exit 5th day:,2011-04-11
+		    to
+		2011-04-15,Enter price:,19.92,Exit price:,20.129999,Profit rate:,-1.0542118473895574 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,14,,,,,,,
+Found Date: ,2011-05-24,	,	,	,	,	,	,
+Enter Date1:,2011-05-25,Enter price:,23.190001,Exit price:,23.75,Profit rate:,-2.414829563827967 %,
+Enter Date2:,2011-05-26,Enter price:,23.620001,Exit price:,23.57,Profit rate:,0.21168923743905932 %,
+Enter Date3:,2011-05-27,Enter price:,23.6,Exit price:,23.9,Profit rate:,-1.271186440677954 %,
+Enter Date4:,2011-05-31,Enter price:,24.0,Exit price:,24.41,Profit rate:,-1.708333333333334 %,
+Enter Date5:,2011-06-01,Enter price:,24.440001,Exit price:,24.42,Profit rate:,0.08183714886098838 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.100822951539207 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-8.552584281223261 %,
+Exit 5th day:,2011-05-25
+		    to
+		2011-06-01,Enter price:,23.190001,Exit price:,24.42,Profit rate:,-5.304005808365438 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,15,,,,,,,
+Found Date: ,2011-07-27,	,	,	,	,	,	,
+Enter Date1:,2011-07-28,Enter price:,22.91,Exit price:,22.559999,Profit rate:,1.527721518987337 %,
+Enter Date2:,2011-07-29,Enter price:,22.379999,Exit price:,22.25,Profit rate:,0.5808713396278593 %,
+Enter Date3:,2011-08-01,Enter price:,22.4,Exit price:,21.950001,Profit rate:,2.0089241071428496 %,
+Enter Date4:,2011-08-02,Enter price:,21.780001,Exit price:,21.209999,Profit rate:,2.6170889523834218 %,
+Enter Date5:,2011-08-03,Enter price:,21.18,Exit price:,21.34,Profit rate:,-0.7554296506137872 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,5.979176267527681 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-2.5734080136955804 %,
+Exit 5th day:,2011-07-28
+		    to
+		2011-08-03,Enter price:,22.91,Exit price:,21.34,Profit rate:,6.852902662592755 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,16,,,,,,,
+Found Date: ,2011-08-17,	,	,	,	,	,	,
+Enter Date1:,2011-08-18,Enter price:,19.34,Exit price:,18.870001,Profit rate:,2.4301913133402344 %,
+Enter Date2:,2011-08-19,Enter price:,18.530001,Exit price:,19.309999,Profit rate:,-4.209379157615818 %,
+Enter Date3:,2011-08-22,Enter price:,19.68,Exit price:,19.6,Profit rate:,0.4065040650406418 %,
+Enter Date4:,2011-08-23,Enter price:,19.66,Exit price:,20.309999,Profit rate:,-3.3062004069176045 %,
+Enter Date5:,2011-08-24,Enter price:,20.23,Exit price:,20.34,Profit rate:,-0.5437469105289147 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.222631096681462 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-7.796039110377042 %,
+Exit 5th day:,2011-08-18
+		    to
+		2011-08-24,Enter price:,19.34,Exit price:,20.34,Profit rate:,-5.170630816959669 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,17,,,,,,,
+Found Date: ,2011-10-26,	,	,	,	,	,	,
+Enter Date1:,2011-10-27,Enter price:,25.0,Exit price:,24.5,Profit rate:,2.0 %,
+Enter Date2:,2011-10-28,Enter price:,23.559999,Exit price:,24.1,Profit rate:,-2.2920247152811855 %,
+Enter Date3:,2011-10-31,Enter price:,23.870001,Exit price:,23.35,Profit rate:,2.1784707926907796 %,
+Enter Date4:,2011-11-01,Enter price:,22.540001,Exit price:,22.459999,Profit rate:,0.3549334358947027 %,
+Enter Date5:,2011-11-02,Enter price:,22.85,Exit price:,23.48,Profit rate:,-2.757111597374175 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.515732084069878 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-8.31177119444692 %,
+Exit 5th day:,2011-10-27
+		    to
+		2011-11-02,Enter price:,25.0,Exit price:,23.48,Profit rate:,6.079999999999998 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,18,,,,,,,
+Found Date: ,2011-12-02,	,	,	,	,	,	,
+Enter Date1:,2011-12-05,Enter price:,23.4,Exit price:,22.73,Profit rate:,2.8632478632478553 %,
+Enter Date2:,2011-12-06,Enter price:,22.85,Exit price:,23.15,Profit rate:,-1.3129102844638825 %,
+Enter Date3:,2011-12-07,Enter price:,23.02,Exit price:,22.59,Profit rate:,1.8679409209383133 %,
+Enter Date4:,2011-12-08,Enter price:,22.52,Exit price:,21.49,Profit rate:,4.5737122557726515 %,
+Enter Date5:,2011-12-09,Enter price:,21.620001,Exit price:,21.99,Profit rate:,-1.711373648872634 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,6.280617106622303 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-2.031154087824616 %,
+Exit 5th day:,2011-12-05
+		    to
+		2011-12-09,Enter price:,23.4,Exit price:,21.99,Profit rate:,6.025641025641026 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,19,,,,,,,
+Found Date: ,2011-12-16,	,	,	,	,	,	,
+Enter Date1:,2011-12-19,Enter price:,20.35,Exit price:,19.85,Profit rate:,2.457002457002457 %,
+Enter Date2:,2011-12-20,Enter price:,20.07,Exit price:,20.57,Profit rate:,-2.4912805181863478 %,
+Enter Date3:,2011-12-21,Enter price:,20.76,Exit price:,20.299999,Profit rate:,2.2158044315992385 %,
+Enter Date4:,2011-12-22,Enter price:,20.299999,Exit price:,20.299999,Profit rate:,0.0 %,
+Enter Date5:,2011-12-23,Enter price:,20.4,Exit price:,20.709999,Profit rate:,-1.5196029411764769 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.6619234292388707 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-1.3692306585857452 %,
+Exit 5th day:,2011-12-19
+		    to
+		2011-12-23,Enter price:,20.35,Exit price:,20.709999,Profit rate:,-1.7690368550368472 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,20,,,,,,,
+Found Date: ,2011-12-28,	,	,	,	,	,	,
+Enter Date1:,2011-12-29,Enter price:,20.59,Exit price:,20.860001,Profit rate:,-1.311321029626035 %,
+Enter Date2:,2011-12-30,Enter price:,20.85,Exit price:,20.6,Profit rate:,1.1990407673860912 %,
+Enter Date3:,2012-01-03,Enter price:,21.049999,Exit price:,21.299999,Profit rate:,-1.187648512477364 %,
+Enter Date4:,2012-01-04,Enter price:,21.120001,Exit price:,20.290001,Profit rate:,3.929924056348285 %,
+Enter Date5:,2012-01-05,Enter price:,20.4,Exit price:,20.530001,Profit rate:,-0.6372598039215688 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.9927354777094086 %,
+	,	,	,	,Total cumulative:,,Profit rate:,0.6235048191236634 %,
+Exit 5th day:,2011-12-29
+		    to
+		2012-01-05,Enter price:,20.59,Exit price:,20.530001,Profit rate:,0.2913987372510988 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,21,,,,,,,
+Found Date: ,2012-01-24,	,	,	,	,	,	,
+Enter Date1:,2012-01-25,Enter price:,17.77,Exit price:,18.040001,Profit rate:,-1.5194203714124963 %,
+Enter Date2:,2012-01-26,Enter price:,18.049999,Exit price:,17.66,Profit rate:,2.1606593994825127 %,
+Enter Date3:,2012-01-27,Enter price:,17.51,Exit price:,18.139999,Profit rate:,-3.59793832095944 %,
+Enter Date4:,2012-01-30,Enter price:,18.0,Exit price:,18.030001,Profit rate:,-0.1666722222222145 %,
+Enter Date5:,2012-01-31,Enter price:,18.15,Exit price:,18.58,Profit rate:,-2.3691460055096405 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.492517520621279 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-4.869012701497615 %,
+Exit 5th day:,2012-01-25
+		    to
+		2012-01-31,Enter price:,17.77,Exit price:,18.58,Profit rate:,-4.558244231851428 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,22,,,,,,,
+Found Date: ,2012-02-24,	,	,	,	,	,	,
+Enter Date1:,2012-02-27,Enter price:,16.809999,Exit price:,16.809999,Profit rate:,0.0 %,
+Enter Date2:,2012-02-28,Enter price:,16.83,Exit price:,16.709999,Profit rate:,0.7130184194889987 %,
+Enter Date3:,2012-02-29,Enter price:,16.620001,Exit price:,16.34,Profit rate:,1.6847231236628604 %,
+Enter Date4:,2012-03-01,Enter price:,16.33,Exit price:,16.690001,Profit rate:,-2.2045376607470946 %,
+Enter Date5:,2012-03-02,Enter price:,16.65,Exit price:,16.780001,Profit rate:,-0.780786786786787 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.5875829043820227 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-5.456595605879638 %,
+Exit 5th day:,2012-02-27
+		    to
+		2012-03-02,Enter price:,16.809999,Exit price:,16.780001,Profit rate:,0.17845331222210442 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,23,,,,,,,
+Found Date: ,2012-05-15,	,	,	,	,	,	,
+Enter Date1:,2012-05-16,Enter price:,14.44,Exit price:,14.41,Profit rate:,0.20775623268697618 %,
+Enter Date2:,2012-05-17,Enter price:,14.39,Exit price:,14.24,Profit rate:,1.0423905489923582 %,
+Enter Date3:,2012-05-18,Enter price:,14.24,Exit price:,14.1,Profit rate:,0.9831460674157343 %,
+Enter Date4:,2012-05-21,Enter price:,14.1,Exit price:,14.38,Profit rate:,-1.9858156028368874 %,
+Enter Date5:,2012-05-22,Enter price:,14.36,Exit price:,14.26,Profit rate:,0.696378830083563 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.9438560763417442 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-4.512739529537894 %,
+Exit 5th day:,2012-05-16
+		    to
+		2012-05-22,Enter price:,14.44,Exit price:,14.26,Profit rate:,1.2465373961218817 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,24,,,,,,,
+Found Date: ,2012-06-11,	,	,	,	,	,	,
+Enter Date1:,2012-06-12,Enter price:,12.91,Exit price:,12.79,Profit rate:,0.9295120061967544 %,
+Enter Date2:,2012-06-13,Enter price:,12.75,Exit price:,12.29,Profit rate:,3.607843137254909 %,
+Enter Date3:,2012-06-14,Enter price:,12.34,Exit price:,12.32,Profit rate:,0.16207455429497222 %,
+Enter Date4:,2012-06-15,Enter price:,12.31,Exit price:,12.44,Profit rate:,-1.0560519902518197 %,
+Enter Date5:,2012-06-18,Enter price:,12.27,Exit price:,12.43,Profit rate:,-1.303993480032601 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.339384227462215 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-2.173355302075679 %,
+Exit 5th day:,2012-06-12
+		    to
+		2012-06-18,Enter price:,12.91,Exit price:,12.43,Profit rate:,3.71804802478699 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,25,,,,,,,
+Found Date: ,2012-07-10,	,	,	,	,	,	,
+Enter Date1:,2012-07-11,Enter price:,11.62,Exit price:,11.68,Profit rate:,-0.5163511187607616 %,
+Enter Date2:,2012-07-12,Enter price:,11.72,Exit price:,11.59,Profit rate:,1.109215017064853 %,
+Enter Date3:,2012-07-13,Enter price:,11.62,Exit price:,11.71,Profit rate:,-0.7745266781411502 %,
+Enter Date4:,2012-07-16,Enter price:,11.67,Exit price:,11.53,Profit rate:,1.199657240788351 %,
+Enter Date5:,2012-07-17,Enter price:,11.59,Exit price:,11.36,Profit rate:,1.9844693701466818 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.002463831097974 %,
+	,	,	,	,Total cumulative:,,Profit rate:,0.829108529022295 %,
+Exit 5th day:,2012-07-11
+		    to
+		2012-07-17,Enter price:,11.62,Exit price:,11.36,Profit rate:,2.2375215146299468 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,26,,,,,,,
+Found Date: ,2012-07-12,	,	,	,	,	,	,
+Enter Date1:,2012-07-13,Enter price:,11.62,Exit price:,11.71,Profit rate:,-0.7745266781411502 %,
+Enter Date2:,2012-07-16,Enter price:,11.67,Exit price:,11.53,Profit rate:,1.199657240788351 %,
+Enter Date3:,2012-07-17,Enter price:,11.59,Exit price:,11.36,Profit rate:,1.9844693701466818 %,
+Enter Date4:,2012-07-18,Enter price:,11.34,Exit price:,11.5,Profit rate:,-1.4109347442680789 %,
+Enter Date5:,2012-07-19,Enter price:,11.55,Exit price:,12.27,Profit rate:,-6.233766233766223 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.23510104524042 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-4.405992516218125 %,
+Exit 5th day:,2012-07-13
+		    to
+		2012-07-19,Enter price:,11.62,Exit price:,12.27,Profit rate:,-5.593803786574875 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,27,,,,,,,
+Found Date: ,2012-07-26,	,	,	,	,	,	,
+Enter Date1:,2012-07-27,Enter price:,11.04,Exit price:,11.41,Profit rate:,-3.351449275362328 %,
+Enter Date2:,2012-07-30,Enter price:,11.29,Exit price:,11.23,Profit rate:,0.5314437555358611 %,
+Enter Date3:,2012-07-31,Enter price:,11.1,Exit price:,11.02,Profit rate:,0.7207207207207215 %,
+Enter Date4:,2012-08-01,Enter price:,11.5,Exit price:,11.68,Profit rate:,-1.5652173913043455 %,
+Enter Date5:,2012-08-02,Enter price:,11.4,Exit price:,11.37,Profit rate:,0.2631578947368521 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.401344295673239 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-7.807336811891364 %,
+Exit 5th day:,2012-07-27
+		    to
+		2012-08-02,Enter price:,11.04,Exit price:,11.37,Profit rate:,-2.9891304347826093 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,28,,,,,,,
+Found Date: ,2012-09-25,	,	,	,	,	,	,
+Enter Date1:,2012-09-26,Enter price:,12.42,Exit price:,12.6,Profit rate:,-1.4492753623188384 %,
+Enter Date2:,2012-09-27,Enter price:,12.67,Exit price:,12.78,Profit rate:,-0.8681925808997588 %,
+Enter Date3:,2012-09-28,Enter price:,12.69,Exit price:,12.69,Profit rate:,0.0 %,
+Enter Date4:,2012-10-01,Enter price:,12.73,Exit price:,12.35,Profit rate:,2.985074626865678 %,
+Enter Date5:,2012-10-02,Enter price:,12.41,Exit price:,12.65,Profit rate:,-1.933924254633362 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.266317570986281 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-9.073654382877645 %,
+Exit 5th day:,2012-09-26
+		    to
+		2012-10-02,Enter price:,12.42,Exit price:,12.65,Profit rate:,-1.8518518518518552 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,29,,,,,,,
+Found Date: ,2012-11-14,	,	,	,	,	,	,
+Enter Date1:,2012-11-15,Enter price:,12.78,Exit price:,13.05,Profit rate:,-2.1126760563380387 %,
+Enter Date2:,2012-11-16,Enter price:,13.15,Exit price:,13.05,Profit rate:,0.7604562737642558 %,
+Enter Date3:,2012-11-19,Enter price:,13.22,Exit price:,13.71,Profit rate:,-3.706505295007566 %,
+Enter Date4:,2012-11-20,Enter price:,13.63,Exit price:,13.86,Profit rate:,-1.6874541452677816 %,
+Enter Date5:,2012-11-21,Enter price:,13.77,Exit price:,13.97,Profit rate:,-1.4524328249818523 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-8.198612047830983 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-17.272266430708626 %,
+Exit 5th day:,2012-11-15
+		    to
+		2012-11-21,Enter price:,12.78,Exit price:,13.97,Profit rate:,-9.311424100156506 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,30,,,,,,,
+Found Date: ,2013-01-23,	,	,	,	,	,	,
+Enter Date1:,2013-01-24,Enter price:,14.05,Exit price:,14.26,Profit rate:,-1.4946619217081785 %,
+Enter Date2:,2013-01-25,Enter price:,14.31,Exit price:,14.77,Profit rate:,-3.2145352900069812 %,
+Enter Date3:,2013-01-28,Enter price:,14.98,Exit price:,15.04,Profit rate:,-0.4005340453938499 %,
+Enter Date4:,2013-01-29,Enter price:,15.18,Exit price:,14.95,Profit rate:,1.515151515151518 %,
+Enter Date5:,2013-01-30,Enter price:,14.94,Exit price:,15.08,Profit rate:,-0.9370816599732301 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-4.531661401930721 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-21.803927832639346 %,
+Exit 5th day:,2013-01-24
+		    to
+		2013-01-30,Enter price:,14.05,Exit price:,15.08,Profit rate:,-7.330960854092522 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,31,,,,,,,
+Found Date: ,2013-03-19,	,	,	,	,	,	,
+Enter Date1:,2013-03-20,Enter price:,17.18,Exit price:,17.34,Profit rate:,-0.9313154831199077 %,
+Enter Date2:,2013-03-21,Enter price:,17.58,Exit price:,17.700001,Profit rate:,-0.6825995449374405 %,
+Enter Date3:,2013-03-22,Enter price:,17.68,Exit price:,17.969999,Profit rate:,-1.640265837104082 %,
+Enter Date4:,2013-03-25,Enter price:,18.120001,Exit price:,17.559999,Profit rate:,3.090518593238473 %,
+Enter Date5:,2013-03-26,Enter price:,18.110001,Exit price:,17.77,Profit rate:,1.8774212105234056 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.7137589386004481 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-20.090168894038896 %,
+Exit 5th day:,2013-03-20
+		    to
+		2013-03-26,Enter price:,17.18,Exit price:,17.77,Profit rate:,-3.4342258440046556 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,32,,,,,,,
+Found Date: ,2013-03-25,	,	,	,	,	,	,
+Enter Date1:,2013-03-26,Enter price:,18.110001,Exit price:,17.77,Profit rate:,1.8774212105234056 %,
+Enter Date2:,2013-03-27,Enter price:,17.76,Exit price:,17.790001,Profit rate:,-0.16892454954954172 %,
+Enter Date3:,2013-03-28,Enter price:,17.629999,Exit price:,17.700001,Profit rate:,-0.39706184895415353 %,
+Enter Date4:,2013-04-01,Enter price:,17.610001,Exit price:,17.92,Profit rate:,-1.7603576513141663 %,
+Enter Date5:,2013-04-02,Enter price:,17.75,Exit price:,17.549999,Profit rate:,1.1267661971831004 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.6778433578886445 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-19.412325536150252 %,
+Exit 5th day:,2013-03-26
+		    to
+		2013-04-02,Enter price:,18.110001,Exit price:,17.549999,Profit rate:,3.092225119148258 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,33,,,,,,,
+Found Date: ,2013-10-21,	,	,	,	,	,	,
+Enter Date1:,2013-10-22,Enter price:,24.49,Exit price:,25.23,Profit rate:,-3.0216414863209557 %,
+Enter Date2:,2013-10-23,Enter price:,25.219999,Exit price:,24.610001,Profit rate:,2.4187074710034717 %,
+Enter Date3:,2013-10-24,Enter price:,24.700001,Exit price:,24.74,Profit rate:,-0.1619392646988076 %,
+Enter Date4:,2013-10-25,Enter price:,24.870001,Exit price:,24.75,Profit rate:,0.4825130485519421 %,
+Enter Date5:,2013-10-28,Enter price:,24.66,Exit price:,24.83,Profit rate:,-0.6893755068937476 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.9717357383580971 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-20.384061274508348 %,
+Exit 5th day:,2013-10-22
+		    to
+		2013-10-28,Enter price:,24.49,Exit price:,24.83,Profit rate:,-1.3883217639852996 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,34,,,,,,,
+Found Date: ,2013-10-29,	,	,	,	,	,	,
+Enter Date1:,2013-10-30,Enter price:,26.129999,Exit price:,26.0,Profit rate:,0.49750862983194727 %,
+Enter Date2:,2013-10-31,Enter price:,25.85,Exit price:,26.25,Profit rate:,-1.5473887814313292 %,
+Enter Date3:,2013-11-01,Enter price:,26.24,Exit price:,25.629999,Profit rate:,2.3246989329268177 %,
+Enter Date4:,2013-11-04,Enter price:,25.67,Exit price:,25.73,Profit rate:,-0.23373587845733818 %,
+Enter Date5:,2013-11-05,Enter price:,25.629999,Exit price:,25.559999,Profit rate:,0.27311745115557856 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.3142003540256761 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-19.06986092048267 %,
+Exit 5th day:,2013-10-30
+		    to
+		2013-11-05,Enter price:,26.129999,Exit price:,25.559999,Profit rate:,2.181400772345993 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,35,,,,,,,
+Found Date: ,2014-01-09,	,	,	,	,	,	,
+Enter Date1:,2014-01-10,Enter price:,22.790001,Exit price:,23.01,Profit rate:,-0.9653312432939402 %,
+Enter Date2:,2014-01-13,Enter price:,23.01,Exit price:,22.379999,Profit rate:,2.7379443720121683 %,
+Enter Date3:,2014-01-14,Enter price:,22.6,Exit price:,22.459999,Profit rate:,0.6194734513274407 %,
+Enter Date4:,2014-01-15,Enter price:,22.6,Exit price:,21.93,Profit rate:,2.9646017699115115 %,
+Enter Date5:,2014-01-16,Enter price:,21.860001,Exit price:,21.540001,Profit rate:,1.4638608662460733 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,6.820549216203254 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-12.249311704279418 %,
+Exit 5th day:,2014-01-10
+		    to
+		2014-01-16,Enter price:,22.790001,Exit price:,21.540001,Profit rate:,5.484861540813447 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,36,,,,,,,
+Found Date: ,2014-03-21,	,	,	,	,	,	,
+Enter Date1:,2014-03-24,Enter price:,29.889999,Exit price:,29.0,Profit rate:,2.9775812304309532 %,
+Enter Date2:,2014-03-25,Enter price:,29.24,Exit price:,29.290001,Profit rate:,-0.1710020519835901 %,
+Enter Date3:,2014-03-26,Enter price:,29.370001,Exit price:,28.57,Profit rate:,2.7238712044987614 %,
+Enter Date4:,2014-03-27,Enter price:,28.43,Exit price:,28.48,Profit rate:,-0.17587055926838097 %,
+Enter Date5:,2014-03-28,Enter price:,28.620001,Exit price:,28.530001,Profit rate:,0.314465397817421 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,5.669045221495165 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-6.5802664827842525 %,
+Exit 5th day:,2014-03-24
+		    to
+		2014-03-28,Enter price:,29.889999,Exit price:,28.530001,Profit rate:,4.550010189026774 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,37,,,,,,,
+Found Date: ,2014-04-24,	,	,	,	,	,	,
+Enter Date1:,2014-04-25,Enter price:,28.049999,Exit price:,28.209999,Profit rate:,-0.570410002510161 %,
+Enter Date2:,2014-04-28,Enter price:,28.34,Exit price:,28.18,Profit rate:,0.5645730416372623 %,
+Enter Date3:,2014-04-29,Enter price:,28.219999,Exit price:,28.059999,Profit rate:,0.5669737975539976 %,
+Enter Date4:,2014-04-30,Enter price:,28.07,Exit price:,28.299999,Profit rate:,-0.8193765586034891 %,
+Enter Date5:,2014-05-01,Enter price:,28.48,Exit price:,28.74,Profit rate:,-0.9129213483145998 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.1711610702369901 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-7.751427553021243 %,
+Exit 5th day:,2014-04-25
+		    to
+		2014-05-01,Enter price:,28.049999,Exit price:,28.74,Profit rate:,-2.4598967008875783 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,38,,,,,,,
+Found Date: ,2014-05-06,	,	,	,	,	,	,
+Enter Date1:,2014-05-07,Enter price:,32.330002,Exit price:,33.950001,Profit rate:,-5.010822455253792 %,
+Enter Date2:,2014-05-08,Enter price:,33.400002,Exit price:,34.279999,Profit rate:,-2.6347213991184666 %,
+Enter Date3:,2014-05-09,Enter price:,34.049999,Exit price:,35.119999,Profit rate:,-3.142437684065719 %,
+Enter Date4:,2014-05-12,Enter price:,35.310001,Exit price:,35.310001,Profit rate:,0.0 %,
+Enter Date5:,2014-05-13,Enter price:,35.389999,Exit price:,35.040001,Profit rate:,0.9889743144666561 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-9.799007223971321 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-17.550434776992564 %,
+Exit 5th day:,2014-05-07
+		    to
+		2014-05-13,Enter price:,32.330002,Exit price:,35.040001,Profit rate:,-8.382303842727868 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,39,,,,,,,
+Found Date: ,2014-08-07,	,	,	,	,	,	,
+Enter Date1:,2014-08-08,Enter price:,33.349998,Exit price:,34.290001,Profit rate:,-2.8185998691813934 %,
+Enter Date2:,2014-08-11,Enter price:,34.34,Exit price:,35.07,Profit rate:,-2.1258008153756456 %,
+Enter Date3:,2014-08-12,Enter price:,35.049999,Exit price:,35.549999,Profit rate:,-1.4265335642377621 %,
+Enter Date4:,2014-08-13,Enter price:,35.59,Exit price:,36.41,Profit rate:,-2.304017982579357 %,
+Enter Date5:,2014-08-14,Enter price:,36.380001,Exit price:,36.59,Profit rate:,-0.5772374772612111 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-9.252189708635369 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-26.80262448562793 %,
+Exit 5th day:,2014-08-08
+		    to
+		2014-08-14,Enter price:,33.349998,Exit price:,36.59,Profit rate:,-9.71514900840475 %,
+,,Win:,0,Lose:,5,,,
+======================================================================================
+Number: ,40,,,,,,,
+Found Date: ,2014-08-15,	,	,	,	,	,	,
+Enter Date1:,2014-08-18,Enter price:,36.860001,Exit price:,36.669998,Profit rate:,0.5154720424451352 %,
+Enter Date2:,2014-08-19,Enter price:,36.619999,Exit price:,37.009998,Profit rate:,-1.0649891060892795 %,
+Enter Date3:,2014-08-20,Enter price:,37.0,Exit price:,37.560001,Profit rate:,-1.5135162162162157 %,
+Enter Date4:,2014-08-21,Enter price:,37.669998,Exit price:,37.759998,Profit rate:,-0.2389169226927047 %,
+Enter Date5:,2014-08-22,Enter price:,37.720001,Exit price:,38.16,Profit rate:,-1.1664872437304366 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.4684374462835015 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-30.271061931911433 %,
+Exit 5th day:,2014-08-18
+		    to
+		2014-08-22,Enter price:,36.860001,Exit price:,38.16,Profit rate:,-3.5268555744206296 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,41,,,,,,,
+Found Date: ,2014-08-25,	,	,	,	,	,	,
+Enter Date1:,2014-08-26,Enter price:,37.689999,Exit price:,37.560001,Profit rate:,0.34491377938216583 %,
+Enter Date2:,2014-08-27,Enter price:,37.5,Exit price:,37.220001,Profit rate:,0.7466639999999908 %,
+Enter Date3:,2014-08-28,Enter price:,37.080002,Exit price:,37.099998,Profit rate:,-0.05392664218302635 %,
+Enter Date4:,2014-08-29,Enter price:,36.75,Exit price:,37.84,Profit rate:,-2.9659863945578326 %,
+Enter Date5:,2014-09-02,Enter price:,37.82,Exit price:,38.009998,Profit rate:,-0.5023744050766863 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-2.4307096624353886 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-32.70177159434682 %,
+Exit 5th day:,2014-08-26
+		    to
+		2014-09-02,Enter price:,37.689999,Exit price:,38.009998,Profit rate:,-0.8490289426646119 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,42,,,,,,,
+Found Date: ,2015-01-13,	,	,	,	,	,	,
+Enter Date1:,2015-01-14,Enter price:,45.52,Exit price:,46.900002,Profit rate:,-3.0316388400702934 %,
+Enter Date2:,2015-01-15,Enter price:,46.93,Exit price:,46.639999,Profit rate:,0.6179437460046806 %,
+Enter Date3:,2015-01-16,Enter price:,46.669998,Exit price:,48.09,Profit rate:,-3.0426442272399576 %,
+Enter Date4:,2015-01-20,Enter price:,48.240002,Exit price:,47.810001,Profit rate:,0.8913784870904384 %,
+Enter Date5:,2015-01-21,Enter price:,47.709999,Exit price:,48.07,Profit rate:,-0.7545609045181428 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-5.3195217387332745 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-38.021293333080095 %,
+Exit 5th day:,2015-01-14
+		    to
+		2015-01-21,Enter price:,45.52,Exit price:,48.07,Profit rate:,-5.60193321616871 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,43,,,,,,,
+Found Date: ,2015-02-25,	,	,	,	,	,	,
+Enter Date1:,2015-02-26,Enter price:,57.490002,Exit price:,57.73,Profit rate:,-0.4174604133776164 %,
+Enter Date2:,2015-02-27,Enter price:,56.810001,Exit price:,57.18,Profit rate:,-0.6512920145873611 %,
+Enter Date3:,2015-03-02,Enter price:,57.18,Exit price:,57.450001,Profit rate:,-0.4721948233648139 %,
+Enter Date4:,2015-03-03,Enter price:,57.25,Exit price:,56.669998,Profit rate:,1.013103930131005 %,
+Enter Date5:,2015-03-04,Enter price:,56.48,Exit price:,57.200001,Profit rate:,-1.2747893059490147 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.8026326271478013 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-39.823925960227896 %,
+Exit 5th day:,2015-02-26
+		    to
+		2015-03-04,Enter price:,57.490002,Exit price:,57.200001,Profit rate:,0.5044372758936356 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,44,,,,,,,
+Found Date: ,2015-06-08,	,	,	,	,	,	,
+Enter Date1:,2015-06-09,Enter price:,61.580002,Exit price:,61.779999,Profit rate:,-0.32477589071854235 %,
+Enter Date2:,2015-06-10,Enter price:,62.139999,Exit price:,62.529999,Profit rate:,-0.627615072861513 %,
+Enter Date3:,2015-06-11,Enter price:,62.48,Exit price:,62.59,Profit rate:,-0.1760563380281795 %,
+Enter Date4:,2015-06-12,Enter price:,62.540001,Exit price:,62.75,Profit rate:,-0.33578349319182677 %,
+Enter Date5:,2015-06-15,Enter price:,62.060001,Exit price:,61.57,Profit rate:,0.7895600904034782 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.6746707043965833 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-40.49859666462448 %,
+Exit 5th day:,2015-06-09
+		    to
+		2015-06-15,Enter price:,61.580002,Exit price:,61.57,Profit rate:,0.016242285929123655 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,45,,,,,,,
+Found Date: ,2015-07-21,	,	,	,	,	,	,
+Enter Date1:,2015-07-22,Enter price:,73.639999,Exit price:,72.919998,Profit rate:,0.9777308660745587 %,
+Enter Date2:,2015-07-23,Enter price:,73.32,Exit price:,71.809998,Profit rate:,2.059468085106383 %,
+Enter Date3:,2015-07-24,Enter price:,71.809998,Exit price:,72.290001,Profit rate:,-0.6684347770069715 %,
+Enter Date4:,2015-07-27,Enter price:,72.43,Exit price:,71.220001,Profit rate:,1.6705771089327768 %,
+Enter Date5:,2015-07-28,Enter price:,72.019997,Exit price:,71.800003,Profit rate:,0.30546238428751915 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,4.344803667394267 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-36.15379299723021 %,
+Exit 5th day:,2015-07-22
+		    to
+		2015-07-28,Enter price:,73.639999,Exit price:,71.800003,Profit rate:,2.498636644468177 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,46,,,,,,,
+Found Date: ,2015-07-27,	,	,	,	,	,	,
+Enter Date1:,2015-07-28,Enter price:,72.019997,Exit price:,71.800003,Profit rate:,0.30546238428751915 %,
+Enter Date2:,2015-07-29,Enter price:,71.910004,Exit price:,72.18,Profit rate:,-0.3754637532769517 %,
+Enter Date3:,2015-07-30,Enter price:,72.010002,Exit price:,72.300003,Profit rate:,-0.4027232216991241 %,
+Enter Date4:,2015-07-31,Enter price:,71.029999,Exit price:,71.550003,Profit rate:,-0.7320906762225916 %,
+Enter Date5:,2015-08-03,Enter price:,71.279999,Exit price:,70.970001,Profit rate:,0.43490180183645527 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.769913465074693 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-36.92370646230491 %,
+Exit 5th day:,2015-07-28
+		    to
+		2015-08-03,Enter price:,72.019997,Exit price:,70.970001,Profit rate:,1.4579228599523646 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,47,,,,,,,
+Found Date: ,2015-11-23,	,	,	,	,	,	,
+Enter Date1:,2015-11-24,Enter price:,68.43,Exit price:,67.059998,Profit rate:,2.0020488090019195 %,
+Enter Date2:,2015-11-25,Enter price:,67.300003,Exit price:,69.510002,Profit rate:,-3.2838022310340698 %,
+Enter Date3:,2015-11-27,Enter price:,69.629997,Exit price:,68.879997,Profit rate:,1.077121976610167 %,
+Enter Date4:,2015-11-30,Enter price:,69.190002,Exit price:,67.790001,Profit rate:,2.0234151749265785 %,
+Enter Date5:,2015-12-01,Enter price:,68.040001,Exit price:,68.629997,Profit rate:,-0.8671310866088895 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.9516526428957057 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-35.9720538194092 %,
+Exit 5th day:,2015-11-24
+		    to
+		2015-12-01,Enter price:,68.43,Exit price:,68.629997,Profit rate:,-0.29226508841150983 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,48,,,,,,,
+Found Date: ,2015-12-03,	,	,	,	,	,	,
+Enter Date1:,2015-12-04,Enter price:,68.379997,Exit price:,70.379997,Profit rate:,-2.924831950489849 %,
+Enter Date2:,2015-12-07,Enter price:,70.739998,Exit price:,70.790001,Profit rate:,-0.0706856112718632 %,
+Enter Date3:,2015-12-08,Enter price:,70.400002,Exit price:,70.989998,Profit rate:,-0.838062476191406 %,
+Enter Date4:,2015-12-09,Enter price:,70.75,Exit price:,67.089996,Profit rate:,5.173150530035336 %,
+Enter Date5:,2015-12-10,Enter price:,67.510002,Exit price:,66.370003,Profit rate:,1.6886371889012879 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.0282076809835066 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-32.94384613842569 %,
+Exit 5th day:,2015-12-04
+		    to
+		2015-12-10,Enter price:,68.379997,Exit price:,66.370003,Profit rate:,2.939447335746455 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,49,,,,,,,
+Found Date: ,2015-12-23,	,	,	,	,	,	,
+Enter Date1:,2015-12-24,Enter price:,68.690002,Exit price:,68.949997,Profit rate:,-0.378504865962865 %,
+Enter Date2:,2015-12-28,Enter price:,68.589996,Exit price:,69.190002,Profit rate:,-0.8747718836432175 %,
+Enter Date3:,2015-12-29,Enter price:,69.5,Exit price:,69.849998,Profit rate:,-0.5035942446043157 %,
+Enter Date4:,2015-12-30,Enter price:,69.889999,Exit price:,69.650002,Profit rate:,0.3433924788008688 %,
+Enter Date5:,2015-12-31,Enter price:,69.440002,Exit price:,68.720001,Profit rate:,1.0368677696754824 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-0.37661074573404685 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-33.32045688415974 %,
+Exit 5th day:,2015-12-24
+		    to
+		2015-12-31,Enter price:,68.690002,Exit price:,68.720001,Profit rate:,-0.04367302245818751 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,50,,,,,,,
+Found Date: ,2016-01-13,	,	,	,	,	,	,
+Enter Date1:,2016-01-14,Enter price:,63.299999,Exit price:,64.480003,Profit rate:,-1.8641453691018175 %,
+Enter Date2:,2016-01-15,Enter price:,64.339996,Exit price:,66.059998,Profit rate:,-2.673301378508003 %,
+Enter Date3:,2016-01-19,Enter price:,66.839996,Exit price:,67.370003,Profit rate:,-0.7929488804876613 %,
+Enter Date4:,2016-01-20,Enter price:,66.199997,Exit price:,66.849998,Profit rate:,-0.9818746668523312 %,
+Enter Date5:,2016-01-21,Enter price:,67.190002,Exit price:,67.029999,Profit rate:,0.23813513206920756 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-6.074135162880605 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-39.39459204704035 %,
+Exit 5th day:,2016-01-14
+		    to
+		2016-01-21,Enter price:,63.299999,Exit price:,67.029999,Profit rate:,-5.892575132584132 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,51,,,,,,,
+Found Date: ,2016-04-19,	,	,	,	,	,	,
+Enter Date1:,2016-04-20,Enter price:,66.599998,Exit price:,65.800003,Profit rate:,1.2011937297655708 %,
+Enter Date2:,2016-04-21,Enter price:,65.830002,Exit price:,66.18,Profit rate:,-0.5316694354650234 %,
+Enter Date3:,2016-04-22,Enter price:,65.900002,Exit price:,65.870003,Profit rate:,0.045522001653359075 %,
+Enter Date4:,2016-04-25,Enter price:,65.43,Exit price:,65.93,Profit rate:,-0.7641754546843954 %,
+Enter Date5:,2016-04-26,Enter price:,65.970001,Exit price:,65.330002,Profit rate:,0.9701364109423056 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.9210072522118167 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-38.47358479482853 %,
+Exit 5th day:,2016-04-20
+		    to
+		2016-04-26,Enter price:,66.599998,Exit price:,65.330002,Profit rate:,1.906900958165203 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,52,,,,,,,
+Found Date: ,2016-04-26,	,	,	,	,	,	,
+Enter Date1:,2016-04-27,Enter price:,65.129997,Exit price:,63.349998,Profit rate:,2.7329941378624714 %,
+Enter Date2:,2016-04-28,Enter price:,63.119999,Exit price:,62.32,Profit rate:,1.2674255587361458 %,
+Enter Date3:,2016-04-29,Enter price:,61.810001,Exit price:,61.849998,Profit rate:,-0.06470959286992993 %,
+Enter Date4:,2016-05-02,Enter price:,62.0,Exit price:,62.889999,Profit rate:,-1.435482258064521 %,
+Enter Date5:,2016-05-03,Enter price:,62.610001,Exit price:,62.080002,Profit rate:,0.8465085314405226 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,3.3467363771046887 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-35.12684841772384 %,
+Exit 5th day:,2016-04-27
+		    to
+		2016-05-03,Enter price:,65.129997,Exit price:,62.080002,Profit rate:,4.682934347440555 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,53,,,,,,,
+Found Date: ,2016-08-11,	,	,	,	,	,	,
+Enter Date1:,2016-08-12,Enter price:,78.0,Exit price:,77.43,Profit rate:,0.730769230769222 %,
+Enter Date2:,2016-08-15,Enter price:,77.589996,Exit price:,79.480003,Profit rate:,-2.4358900598474023 %,
+Enter Date3:,2016-08-16,Enter price:,78.779999,Exit price:,78.050003,Profit rate:,0.9266260589823057 %,
+Enter Date4:,2016-08-17,Enter price:,78.0,Exit price:,79.769997,Profit rate:,-2.2692269230769275 %,
+Enter Date5:,2016-08-18,Enter price:,79.800003,Exit price:,80.980003,Profit rate:,-1.4786966862645263 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-4.526418379437328 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-39.65326679716117 %,
+Exit 5th day:,2016-08-12
+		    to
+		2016-08-18,Enter price:,78.0,Exit price:,80.980003,Profit rate:,-3.8205166666666623 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,54,,,,,,,
+Found Date: ,2016-10-12,	,	,	,	,	,	,
+Enter Date1:,2016-10-13,Enter price:,82.089996,Exit price:,81.760002,Profit rate:,0.4019905178214398 %,
+Enter Date2:,2016-10-14,Enter price:,82.349998,Exit price:,82.589996,Profit rate:,-0.29143655838340143 %,
+Enter Date3:,2016-10-17,Enter price:,82.769997,Exit price:,82.32,Profit rate:,0.5436716398576291 %,
+Enter Date4:,2016-10-18,Enter price:,83.18,Exit price:,84.010002,Profit rate:,-0.9978384226977557 %,
+Enter Date5:,2016-10-19,Enter price:,84.220001,Exit price:,82.760002,Profit rate:,1.7335537671152441 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.3899409437131558 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-38.263325853448016 %,
+Exit 5th day:,2016-10-13
+		    to
+		2016-10-19,Enter price:,82.089996,Exit price:,82.760002,Profit rate:,-0.8161847151265553 %,
+,,Win:,3,Lose:,2,,,
+======================================================================================
+Number: ,55,,,,,,,
+Found Date: ,2017-03-16,	,	,	,	,	,	,
+Enter Date1:,2017-03-17,Enter price:,90.919998,Exit price:,89.589996,Profit rate:,1.462826692979038 %,
+Enter Date2:,2017-03-20,Enter price:,88.82,Exit price:,89.160004,Profit rate:,-0.3828011709074618 %,
+Enter Date3:,2017-03-21,Enter price:,89.220001,Exit price:,88.410004,Profit rate:,0.9078648183382061 %,
+Enter Date4:,2017-03-22,Enter price:,88.43,Exit price:,88.739998,Profit rate:,-0.35055750310979655 %,
+Enter Date5:,2017-03-23,Enter price:,88.589996,Exit price:,88.610001,Profit rate:,-0.02258155649989826 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,1.6147512808000875 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-36.64857457264793 %,
+Exit 5th day:,2017-03-17
+		    to
+		2017-03-23,Enter price:,90.919998,Exit price:,88.610001,Profit rate:,2.5406918728704877 %,
+,,Win:,2,Lose:,3,,,
+======================================================================================
+Number: ,56,,,,,,,
+Found Date: ,2017-04-05,	,	,	,	,	,	,
+Enter Date1:,2017-04-06,Enter price:,88.470001,Exit price:,88.559998,Profit rate:,-0.10172600766670814 %,
+Enter Date2:,2017-04-07,Enter price:,88.400002,Exit price:,88.730003,Profit rate:,-0.3733042901967307 %,
+Enter Date3:,2017-04-10,Enter price:,88.550003,Exit price:,88.739998,Profit rate:,-0.2145623868584128 %,
+Enter Date4:,2017-04-11,Enter price:,88.779999,Exit price:,89.68,Profit rate:,-1.0137429715447543 %,
+Enter Date5:,2017-04-12,Enter price:,89.949997,Exit price:,89.949997,Profit rate:,0.0 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.703335656266606 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-38.351910228914534 %,
+Exit 5th day:,2017-04-06
+		    to
+		2017-04-12,Enter price:,88.470001,Exit price:,89.949997,Profit rate:,-1.6728789231052457 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,57,,,,,,,
+Found Date: ,2017-05-03,	,	,	,	,	,	,
+Enter Date1:,2017-05-04,Enter price:,94.110001,Exit price:,94.760002,Profit rate:,-0.6906821730880687 %,
+Enter Date2:,2017-05-05,Enter price:,95.389999,Exit price:,95.739998,Profit rate:,-0.36691372645888887 %,
+Enter Date3:,2017-05-08,Enter price:,95.919998,Exit price:,95.730003,Profit rate:,0.19807652623179822 %,
+Enter Date4:,2017-05-09,Enter price:,95.860001,Exit price:,96.010002,Profit rate:,-0.15647923892677945 %,
+Enter Date5:,2017-05-10,Enter price:,105.970001,Exit price:,108.160004,Profit rate:,-2.0666254405338775 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-3.082624052775816 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-41.43453428169035 %,
+Exit 5th day:,2017-05-04
+		    to
+		2017-05-10,Enter price:,94.110001,Exit price:,108.160004,Profit rate:,-14.929341037835082 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,58,,,,,,,
+Found Date: ,2017-06-08,	,	,	,	,	,	,
+Enter Date1:,2017-06-09,Enter price:,114.839996,Exit price:,110.459999,Profit rate:,3.813999610379648 %,
+Enter Date2:,2017-06-12,Enter price:,109.300003,Exit price:,108.900002,Profit rate:,0.3659661381711061 %,
+Enter Date3:,2017-06-13,Enter price:,110.330002,Exit price:,109.980003,Profit rate:,0.3172292156760741 %,
+Enter Date4:,2017-06-14,Enter price:,110.160004,Exit price:,110.019997,Profit rate:,0.12709422196462256 %,
+Enter Date5:,2017-06-15,Enter price:,108.239998,Exit price:,110.529999,Profit rate:,-2.115669846926645 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,2.508619339264806 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-38.92591494242554 %,
+Exit 5th day:,2017-06-09
+		    to
+		2017-06-15,Enter price:,114.839996,Exit price:,110.529999,Profit rate:,3.7530452369573366 %,
+,,Win:,4,Lose:,1,,,
+======================================================================================
+Number: ,59,,,,,,,
+Found Date: ,2017-07-13,	,	,	,	,	,	,
+Enter Date1:,2017-07-14,Enter price:,109.610001,Exit price:,108.989998,Profit rate:,0.5656445528177644 %,
+Enter Date2:,2017-07-17,Enter price:,109.019997,Exit price:,109.440002,Profit rate:,-0.3852550096841438 %,
+Enter Date3:,2017-07-18,Enter price:,110.0,Exit price:,110.279999,Profit rate:,-0.2545445454545488 %,
+Enter Date4:,2017-07-19,Enter price:,110.43,Exit price:,111.580002,Profit rate:,-1.0413854930725224 %,
+Enter Date5:,2017-07-20,Enter price:,111.610001,Exit price:,111.970001,Profit rate:,-0.3225517397853974 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,-1.4380922351788479 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-40.36400717760439 %,
+Exit 5th day:,2017-07-14
+		    to
+		2017-07-20,Enter price:,109.610001,Exit price:,111.970001,Profit rate:,-2.1530882022343922 %,
+,,Win:,1,Lose:,4,,,
+======================================================================================
+Number: ,60,,,,,,,
+Found Date: ,2017-10-16,	,	,	,	,	,	,
+Enter Date1:,2017-10-17,Enter price:,117.199997,Exit price:,115.980003,Profit rate:,1.040950538590884 %,
+Enter Date2:,2017-10-18,Enter price:,113.410004,Exit price:,113.160004,Profit rate:,0.22043910694157107 %,
+Enter Date3:,2017-10-19,Enter price:,112.0,Exit price:,113.07,Profit rate:,-0.9553571428571368 %,
+Enter Date4:,2017-10-20,Enter price:,113.599998,Exit price:,113.620003,Profit rate:,-0.01761003552130134 %,
+Enter Date5:,2017-10-23,Enter price:,113.809998,Exit price:,113.660004,Profit rate:,0.1317933420928383 %,
+	,	,	,	,Cumulative for 5 days:,,Profit rate:,0.4202158092468551 %,
+	,	,	,	,Total cumulative:,,Profit rate:,-39.94379136835754 %,
+Exit 5th day:,2017-10-17
+		    to
+		2017-10-23,Enter price:,117.199997,Exit price:,113.660004,Profit rate:,3.020471920319243 %,
+,,Win:,3,Lose:,2,,,
+Total Win:,142,Total Lose:,158,,,,,
+Total Profit:,Found:,60 Patterns.,	,	,	,Total ProfitRate:,-35.581843976001856 %,
+Average Profit:,Days:,60 Patterns.,	,	,	,Total Ave. ProfitRate:,-0.5930307329333643 %,
