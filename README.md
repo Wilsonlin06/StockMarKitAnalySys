@@ -4,8 +4,9 @@ A system that predict bullish entry point and calculate the earnings with the in
 The code is under Master branch
 This is a Stock Market bullish entry predicting system.
 To use this system, you will need to execute it under command prompt/terminal:
-Usage: StockMarKitAnalySys "Stock_Symbol(String)" "Investment_Amount(Integer)"
-ex: StockMarKitAnalySys AAPL 100000
+Usage: StockMarKitAnalySys_old "Stock_Symbol(String)" "Investment_Amount(Integer)" (Old version of algorithm)
+or StockMarKitAnalySys_rev "Stock_Symbol(String)" "Investment_Amount(Integer)" (Renovated version of algorithm)
+ex: StockMarKitAnalySys_rev AAPL 100000
 
 Available companies by default:
 AAPL
